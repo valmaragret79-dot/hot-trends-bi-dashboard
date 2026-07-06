@@ -5757,6 +5757,121 @@
       return profile;
     }
 
+    function platformTags(value) {
+      const text = String(value || "").toLowerCase();
+      return {
+        tiktok: /tiktok|shorts|reels/.test(text),
+        x: /\bx\b|twitter|threads/.test(text)
+      };
+    }
+
+    function topicQuery(item) {
+      return encodeURIComponent(String(item?.name || "trend").trim());
+    }
+
+    function missingConcreteAccounts(accounts, item) {
+      const counts = accounts.reduce((acc, account) => {
+        const tags = platformTags(account.platform);
+        if (tags.tiktok) acc.tiktok += 1;
+        if (tags.x) acc.x += 1;
+        return acc;
+      }, {tiktok: 0, x: 0});
+      const query = topicQuery(item);
+      const topic = item?.name || "该热点";
+      const extras = [];
+      if (counts.tiktok < 2) {
+        extras.push({
+          name: "TikTok 热点二创池",
+          handle: "#search",
+          platform: "TikTok",
+          homepage: `https://www.tiktok.com/search?q=${query}`,
+          post: `https://www.tiktok.com/search?q=${query}`,
+          interaction: "用搜索页筛选近 24-72 小时高播放、高评论、低粉爆量的视频样本。",
+          positioning: "短视频二创/剪辑/解释账号池，专门找非官方、非明星本人、可学习起号结构的内容号。",
+          lead: `围绕「${topic}」做 15-30 秒解释、reaction、字幕剪辑和评论区关键词引流。`,
+          note: "这是平台采集入口，不声称具体账号已核验；实际合作前需逐个确认账号质量和版权边界。"
+        });
+      }
+      if (counts.tiktok < 1) {
+        extras.push({
+          name: "TikTok 垂直长尾池",
+          handle: "#niche",
+          platform: "TikTok",
+          homepage: `https://www.tiktok.com/search?q=${query}%20explained`,
+          post: `https://www.tiktok.com/search?q=${query}%20explained`,
+          interaction: "重点找粉丝不大但单条视频评论密集、收藏/转发明显高于日常均值的账号。",
+          positioning: "垂直解释号/清单号/低粉爆量号，适合拆内容公式和测试小预算合作。",
+          lead: "做一题多发：是什么、为什么火、3 个争议点、普通用户下一步看什么。",
+          note: "优先选有稳定垂类标签和可复用封面模板的账号。"
+        });
+      }
+      if (counts.x < 2) {
+        extras.push({
+          name: "X 实时讨论监测池",
+          handle: "#search",
+          platform: "X / Twitter",
+          homepage: `https://twitter.com/search?q=${query}&src=typed_query&f=top`,
+          post: `https://twitter.com/search?q=${query}&src=typed_query&f=top`,
+          interaction: "看 Top/Latest 里的高转发 thread、梗图聚合、记者源和粉丝投票。",
+          positioning: "实时资讯/讨论/梗图聚合账号池，用来抓源头、情绪和评论区问题。",
+          lead: `围绕「${topic}」做时间线 thread、投票、事实源列表，再导到专题页或 newsletter。`,
+          note: "不要把未确认传言写成事实；优先引用源头账号和可核验链接。"
+        });
+      }
+      if (counts.x < 1) {
+        extras.push({
+          name: "X 垂直社群账号池",
+          handle: "#community",
+          platform: "X / Twitter",
+          homepage: `https://twitter.com/search?q=${query}%20fan%20account&src=typed_query`,
+          post: `https://twitter.com/search?q=${query}%20fan%20account&src=typed_query`,
+          interaction: "找回复链活跃、转发速度快、评论区有站队/提问/求链接的中小账号。",
+          positioning: "粉丝社群/垂直快讯/资料整理号，适合做互推、UGC 征集和话题接力。",
+          lead: "用投票、资料卡、评论问题把流量导到社群、邮件订阅或独立站资源页。",
+          note: "适合观察话题温度，不建议直接复制观点型内容。"
+        });
+      }
+      return extras.slice(0, Math.max(0, 4 - accounts.length) + 4);
+    }
+
+    function ensureConcretePlatformCoverage(accounts, item) {
+      const enriched = accounts.concat(missingConcreteAccounts(accounts, item));
+      const seen = new Set();
+      const unique = enriched.filter(account => {
+        const key = [account.name, account.handle, account.platform].join("|");
+        if (seen.has(key)) return false;
+        seen.add(key);
+        return true;
+      });
+      const tiktok = unique.filter(account => platformTags(account.platform).tiktok).slice(0, 2);
+      const x = unique.filter(account => platformTags(account.platform).x).slice(0, 2);
+      const rest = unique.filter(account => !tiktok.includes(account) && !x.includes(account));
+      return tiktok.concat(x, rest).slice(0, 6);
+    }
+
+    function ensureCandidatePlatformCoverage(cards) {
+      const counts = cards.reduce((acc, card) => {
+        const tags = platformTags(card[1]);
+        if (tags.tiktok) acc.tiktok += 1;
+        if (tags.x) acc.x += 1;
+        return acc;
+      }, {tiktok: 0, x: 0});
+      const extras = [];
+      if (counts.tiktok < 2) {
+        extras.push(["TikTok 热点二创池", "TikTok", "筛选解释、reaction、字幕剪辑、清单型短视频账号，优先低粉爆量和评论密集样本。", "看近 24-72 小时播放/评论是否高于账号均值，评论区是否有追问和求链接。", "用 15-30 秒解释卡、评论关键词和私信自动回复导到专题页。"]);
+      }
+      if (counts.tiktok < 1) {
+        extras.push(["TikTok 垂直长尾池", "TikTok", "找同垂类小号、资料号、清单号和搬运二创号，观察可复制标题和封面模板。", "优先收藏率、转发率、完播信号强的非官方账号。", "一题多发：是什么、为什么火、怎么参与、商品/清单承接。"]);
+      }
+      if (counts.x < 2) {
+        extras.push(["X 实时讨论监测池", "X / Twitter", "监测源头 thread、梗图、记者/垂类账号和粉丝投票，补足实时舆情。", "看转发速度、回复链深度、引用推分歧和是否被多个垂类账号二次传播。", "做时间线、事实源列表、投票和 newsletter 引流。"]);
+      }
+      if (counts.x < 1) {
+        extras.push(["X 垂直社群账号池", "X / Twitter", "筛选粉丝社群、快讯号、资料整理号和二创梗图号。", "回复链活跃、互相引用多、评论里有明确问题或站队。", "互推、UGC 征集、话题接力和专题页导流。"]);
+      }
+      return cards.concat(extras).slice(0, 6);
+    }
+
     function preferredStartupAccounts(accounts, item) {
       const enriched = accounts.map(account => ({
         ...account,
@@ -5764,7 +5879,7 @@
       })).sort((a, b) => b.startup.priority - a.startup.priority);
       const preferred = enriched.filter(account => account.startup.priority >= 2);
       const fallback = enriched.filter(account => account.startup.priority < 2);
-      return (preferred.length ? preferred.concat(fallback) : enriched).slice(0, 4);
+      return ensureConcretePlatformCoverage(preferred.length ? preferred.concat(fallback) : enriched, item);
     }
 
     function renderAccountAnalysis(targetId, item) {
@@ -5786,7 +5901,7 @@
         ).join("");
         return;
       }
-      const cards = accountCandidatesFor(item);
+      const cards = ensureCandidatePlatformCoverage(accountCandidatesFor(item));
       document.getElementById(targetId).innerHTML = cards.map(([title, platform, positioning, signal, lead]) =>
         "<section class=\"account-card\"><h3>" + title + "</h3><dl>" +
           "<div><dt>平台</dt><dd>" + platform + "</dd></div>" +
