@@ -19,7 +19,7 @@ const sourceConfigs = [
 const profileRules = [
   {
     key: "soccer",
-    match: /world cup|soccer|football|usmnt|fifa|premier league|champions league/i,
+    match: /world cup|copa mundial|soccer|football|usmnt|fifa|premier league|champions league|colombia|england|kane/i,
     category: "体育 / 足球 / 赛事热点",
     platforms: "X, TikTok, Instagram, Sports News",
     viral: 9,
@@ -39,7 +39,7 @@ const profileRules = [
   },
   {
     key: "nba",
-    match: /nba|celtics|lakers|warriors|knicks|lebron|basketball/i,
+    match: /nba|celtics|lakers|warriors|knicks|lebron|basketball|76ers|embiid|sixers/i,
     category: "NBA / 交易 / 球迷讨论",
     platforms: "X, TikTok, Instagram, YouTube, Sports News",
     viral: 9,
@@ -55,6 +55,46 @@ const profileRules = [
       instagram: "Carousel 做交易评级、薪资空间和球员适配度；Stories 做投票。",
       x: "只引用源头记者和官方账号，实时更新签约、筹码和球迷情绪。",
       store: "球星球衣、球鞋、收藏卡、球队海报、交易追踪 newsletter。"
+    }
+  },
+  {
+    key: "nfl",
+    match: /nfl|seahawks|chiefs|cowboys|eagles|packers|steelers|patriots/i,
+    category: "NFL / 球队动态 / 球迷讨论",
+    platforms: "X, TikTok, Instagram, YouTube, Sports News",
+    viral: 8,
+    commerce: 8,
+    longTerm: 8,
+    persona: "NFL 球迷、球队粉丝、Fantasy Football 玩家、球衣和周边消费者。",
+    age: "18-49 岁为主。",
+    countriesText: "美国、加拿大、英国、墨西哥、德国、澳大利亚。",
+    countries: {"美国": 100, "加拿大": 38, "英国": 26, "墨西哥": 22, "德国": 18, "澳大利亚": 14},
+    spending: "高；球衣、帽子、Fantasy 工具、会员订阅、比赛门票和观赛用品可承接。",
+    playbook: {
+      tiktok: "做训练营/交易/伤病/赛程的 30 秒解释，结尾问球迷新赛季预期。",
+      instagram: "Carousel 做阵容深度图、赛程、球员变动和球迷穿搭。",
+      x: "实时跟进记者源、球队公告、伤病和球迷情绪。",
+      store: "球衣、帽子、Fantasy draft kit、观赛用品和球队专题页。"
+    }
+  },
+  {
+    key: "f1",
+    match: /f1|formula 1|grand prix|silverstone|verstappen|ferrari|mclaren/i,
+    category: "体育 / F1 / 赛车粉圈",
+    platforms: "X, TikTok, Instagram, YouTube",
+    viral: 8,
+    commerce: 8,
+    longTerm: 8,
+    persona: "F1 粉丝、赛车游戏玩家、车队周边消费者、体育短视频用户。",
+    age: "16-44 岁，18-34 岁社媒互动更强。",
+    countriesText: "英国、美国、意大利、荷兰、澳大利亚、加拿大。",
+    countries: {"英国": 100, "美国": 78, "意大利": 56, "荷兰": 48, "澳大利亚": 34, "加拿大": 28},
+    spending: "中高；车队服饰、模型、F1 订阅、赛车游戏设备和观赛用品可承接。",
+    playbook: {
+      tiktok: "赛后做事故/策略/无线电三类短视频，标题让粉丝判断谁背锅。",
+      instagram: "Carousel 做名次变化、车队策略、事故时间线和车手评分。",
+      x: "实时跟进处罚、事故、天气、车队声明和粉丝争议。",
+      store: "F1 周边、模型车、游戏方向盘、车队穿搭、观赛订阅。"
     }
   },
   {
@@ -119,7 +159,7 @@ const profileRules = [
   },
   {
     key: "entertainment",
-    match: /love island|netflix|hbo|movie|tv show|trailer|celebrity|award|music|song|album/i,
+    match: /love island|netflix|hbo|movie|tv show|trailer|celebrity|award|music|song|album|cher|sebastian rulli/i,
     category: "娱乐 / 影视音乐 / 粉圈讨论",
     platforms: "TikTok, Instagram, X, YouTube",
     viral: 9,
@@ -135,6 +175,26 @@ const profileRules = [
       instagram: "Carousel 做角色关系图、红黑榜、穿搭同款和剧情时间线。",
       x: "跟进实时热梗、粉圈争议和官方物料，注意事实与猜测分层。",
       store: "穿搭同款、美妆清单、歌单、周边、剧情复盘专题和 newsletter。"
+    }
+  },
+  {
+    key: "local",
+    match: /ohio|rittman|seattle|new york|los angeles|chicago|houston|miami|local/i,
+    category: "本地新闻 / 城市话题 / 社区关注",
+    platforms: "Google Trends, X, Local News, Reddit",
+    viral: 6,
+    commerce: 5,
+    longTerm: 6,
+    persona: "本地居民、家庭用户、社区新闻关注者、城市生活内容受众。",
+    age: "25-54 岁为主。",
+    countriesText: "美国为核心，按城市/州扩散。",
+    countries: {"美国": 100, "加拿大": 8, "英国": 5},
+    spending: "中低；适合本地清单、地图、服务信息和 newsletter，不适合硬带货。",
+    playbook: {
+      tiktok: "先讲清地点、事件、影响人群和下一步看什么，避免无来源猜测。",
+      instagram: "Carousel 做时间线、地图、本地资源和 FAQ。",
+      x: "只转官方/本地媒体源，标注未确认信息。",
+      store: "本地资源页、地图、服务清单、社区 newsletter。"
     }
   },
   {
@@ -158,6 +218,47 @@ const profileRules = [
     }
   }
 ];
+
+function describeOpportunity(title, profile) {
+  const lower = String(title || "").toLowerCase();
+  if (/is colombia still in the world cup|colombia/.test(lower)) {
+    return "用户在搜索哥伦比亚是否还留在世界杯赛程里，说明赛果/晋级形势没有被普通观众理解清楚；适合做“哥伦比亚还在吗、下一场是谁、晋级条件是什么”的解释卡和短视频。";
+  }
+  if (/copa mundial/.test(lower)) {
+    return "西语用户在集中搜索世界杯，核心需求是赛程、晋级表、球队状态和西语解读；适合做双语 World Cup 日历、拉美球队追踪和观赛清单。";
+  }
+  if (/england|kane/.test(lower)) {
+    return "England/Kane 代表英格兰队与 Harry Kane 相关赛事讨论升温，用户关心首发、进球、晋级路线和球迷争议；适合做赛前预测、球星表现评分和英格兰球迷内容。";
+  }
+  if (/76ers|embiid|sixers/.test(lower)) {
+    return "76ers/Embiid trade rumors 是 NBA 自由市场和交易流言话题，用户关心真假消息、薪资空间、下家和球队重建方向；适合做流言分层、阵容模拟和球迷投票。";
+  }
+  if (/seahawks/.test(lower)) {
+    return "Seattle Seahawks 代表 NFL 球队动态升温，可能来自训练营、交易、伤病、赛程或球迷社区讨论；适合先核验具体新闻点，再做阵容变化、赛季预期和 Fantasy Football 内容。";
+  }
+  if (/cher/.test(lower)) {
+    return "Cher 是经典娱乐人物名搜索上升，用户通常在追最新露面、纪念节点、演出/传记/关系话题或 viral clip；适合做“为什么又上热搜”的时间线、经典作品回顾和粉丝向短内容。";
+  }
+  if (/sebastian rulli/.test(lower)) {
+    return "Sebastian Rulli 是拉美影视明星搜索上升，受众多为西语剧集/明星粉丝，需求集中在新剧、感情动态、采访或片段二创；适合做西语娱乐快讯和角色/作品盘点。";
+  }
+  if (/rittman ohio/.test(lower)) {
+    return "Rittman Ohio 是本地地名搜索上升，说明当地新闻、事故、天气、学校或社区事件正在被集中查询；适合做本地事实核验、时间线和资源清单，不适合未核实就情绪化传播。";
+  }
+  if (/iron bird seed/.test(lower)) {
+    return "Iron bird seed 看起来像商品/园艺/宠物鸟食相关搜索词，用户可能在找品牌、召回、评测或购买入口；适合先核验具体触发原因，再做产品解释、替代款和购买指南。";
+  }
+  if (/world cup|nba|nfl|f1|wimbledon|sports|soccer|football|basketball/.test([lower, profile.category].join(" "))) {
+    return `「${title}」是体育赛事/球队/球员相关搜索上升，用户核心需求是赛程、结果、首发、伤病、晋级条件和球迷争议；适合做解释卡、赛前预测、赛后评分和观赛/周边承接。`;
+  }
+  if (/娱乐|celebrity|music|movie|tv|show/.test(profile.category.toLowerCase())) {
+    return `「${title}」是娱乐人物或作品相关搜索上升，用户想知道“为什么突然火、发生了什么、有哪些片段可看”；适合做时间线、作品盘点、粉圈反应和穿搭/美妆/歌单承接。`;
+  }
+  if (/本地|local|ohio|city/.test([lower, profile.category].join(" "))) {
+    return `「${title}」是本地地名或社区事件搜索上升，必须先核验事件源，再做地点、影响、时间线和资源清单；适合本地资讯号，不适合硬带货。`;
+  }
+  return `「${title}」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。`;
+}
 
 function formatDateInZone(date, timeZone) {
   const parts = new Intl.DateTimeFormat("en-CA", {timeZone, year: "numeric", month: "2-digit", day: "2-digit"}).formatToParts(date);
@@ -308,7 +409,7 @@ function buildTrend(group, index) {
     commerce,
     longTerm,
     source: group.url || "",
-    opportunity: `公开源显示「${group.title}」正在上升；适合快速拆成背景解释、争议点、清单和垂类承接内容。`,
+    opportunity: describeOpportunity(group.title, profile),
     persona: profile.persona,
     age: profile.age,
     countriesText: profile.countriesText,
