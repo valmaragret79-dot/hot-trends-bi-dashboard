@@ -29,3 +29,4 @@ The updater uses public sources:
 - Trends24 United States
 
 It updates `outputs/hot_trends_bi_dashboard.html` and writes the latest run summary to `outputs/hot_trends_latest.json`.
+Last deploy check: 2026-07-06
