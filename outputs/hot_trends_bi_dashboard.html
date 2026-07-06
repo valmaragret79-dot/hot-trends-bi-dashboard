@@ -579,6 +579,35 @@
       word-break: break-word;
     }
 
+    .account-fit-guide {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 10px;
+      margin-bottom: 12px;
+    }
+
+    .account-fit-guide section {
+      border: 1px solid var(--soft-line);
+      border-radius: 7px;
+      background: #f9fbff;
+      padding: 10px;
+      min-width: 0;
+    }
+
+    .account-fit-guide h3 {
+      margin: 0 0 6px;
+      font-size: 12px;
+      line-height: 1.3;
+      color: var(--ink);
+    }
+
+    .account-fit-guide p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.5;
+    }
+
     .view-switch {
       display: inline-flex;
       gap: 6px;
@@ -747,6 +776,7 @@
       .trend-row { grid-template-columns: 30px minmax(0, 1fr); }
       .bar-cell, .score-pill { grid-column: 2; justify-self: stretch; }
       .map-toolbar { grid-template-columns: 1fr; }
+      .account-fit-guide { grid-template-columns: 1fr; }
     }
   </style>
 </head>
@@ -863,6 +893,11 @@
             <div class="panel-hint">起号参考：蹭热点 / 搬运二创 / 聚合同类用户后引流</div>
           </div>
           <div class="panel-body">
+            <div class="account-fit-guide">
+              <section><h3><span class="account-fit account-fit-high">高：可拆起号</span></h3><p>非官方、非明星本人，像二创号、聚合号、快讯号、清单号；内容公式和引流动作可复制。</p></section>
+              <section><h3><span class="account-fit account-fit-mid">中：学结构</span></h3><p>多为媒体、大号或半官方；适合学习标题、封面、信息层级和互动设计，不建议直接搬素材。</p></section>
+              <section><h3><span class="account-fit account-fit-low">低：慎做/只参考</span></h3><p>官方号、本人号或政治/法律/宗教/召回等敏感话题；只参考事实、节奏和边界，不做硬引流。</p></section>
+            </div>
             <div class="account-grid" id="rangeAccountAnalysis"></div>
           </div>
         </div>
@@ -939,6 +974,11 @@
             <div class="panel-hint">起号参考：蹭热点 / 搬运二创 / 聚合同类用户后引流</div>
           </div>
           <div class="panel-body">
+            <div class="account-fit-guide">
+              <section><h3><span class="account-fit account-fit-high">高：可拆起号</span></h3><p>非官方、非明星本人，像二创号、聚合号、快讯号、清单号；内容公式和引流动作可复制。</p></section>
+              <section><h3><span class="account-fit account-fit-mid">中：学结构</span></h3><p>多为媒体、大号或半官方；适合学习标题、封面、信息层级和互动设计，不建议直接搬素材。</p></section>
+              <section><h3><span class="account-fit account-fit-low">低：慎做/只参考</span></h3><p>官方号、本人号或政治/法律/宗教/召回等敏感话题；只参考事实、节奏和边界，不做硬引流。</p></section>
+            </div>
             <div class="account-grid" id="accountAnalysis"></div>
           </div>
         </div>
