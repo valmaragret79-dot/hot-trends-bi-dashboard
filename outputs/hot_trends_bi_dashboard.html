@@ -5838,7 +5838,10 @@
     }
 
     function ensureConcretePlatformCoverage(accounts, item) {
-      const enriched = accounts.concat(missingConcreteAccounts(accounts, item));
+      const enriched = accounts.concat(missingConcreteAccounts(accounts, item)).map(account => ({
+        ...account,
+        startup: account.startup || startupProfileFor(account, item)
+      }));
       const seen = new Set();
       const unique = enriched.filter(account => {
         const key = [account.name, account.handle, account.platform].join("|");
