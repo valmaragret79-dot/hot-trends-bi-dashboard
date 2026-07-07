@@ -33,7 +33,7 @@
       "name": "dodgers game today",
       "platforms": "Google Trends, TikTok, YouTube, Twitch, X",
       "category": "游戏 / 主机 / 发售节点",
-      "heat": 92,
+      "heat": 89,
       "viral": 8,
       "commerce": 9,
       "longTerm": 7,
@@ -65,14 +65,14 @@
         "x": "跟进服务器、补丁、平台差异、玩家热梗和评分争议。",
         "store": "主机/手柄、兑换码、耳机、直播设备、攻略电子书和社群会员。"
       },
-      "score": 8.5
+      "score": 8.4
     },
     {
       "id": "dodger-game",
       "name": "dodger game",
       "platforms": "Google Trends, TikTok, YouTube, Twitch, X",
       "category": "游戏 / 主机 / 发售节点",
-      "heat": 80,
+      "heat": 77,
       "viral": 8,
       "commerce": 9,
       "longTerm": 7,
@@ -104,14 +104,53 @@
         "x": "跟进服务器、补丁、平台差异、玩家热梗和评分争议。",
         "store": "主机/手柄、兑换码、耳机、直播设备、攻略电子书和社群会员。"
       },
-      "score": 8
+      "score": 7.9
+    },
+    {
+      "id": "freese",
+      "name": "Freese",
+      "platforms": "X, Google Trends, Reddit, News",
+      "category": "综合热点 / 社交讨论 / 内容机会",
+      "heat": 99,
+      "viral": 7,
+      "commerce": 6,
+      "longTerm": 6,
+      "source": "https://twitter.com/search?q=Freese",
+      "opportunity": "「Freese」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
+      "age": "18-44 岁为主。",
+      "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
+      "interests": "Freese, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
+      "ageBuckets": {
+        "13-17": 8,
+        "18-24": 30,
+        "25-34": 34,
+        "35-44": 18,
+        "45+": 10
+      },
+      "countries": {
+        "美国": 100,
+        "加拿大": 32,
+        "英国": 30,
+        "澳大利亚": 22,
+        "印度": 18,
+        "巴西": 14
+      },
+      "playbook": {
+        "tiktok": "先做 3 秒钩子解释为什么突然火，再给背景、争议点和评论问题。",
+        "instagram": "Carousel 做信息卡、时间线、关键观点和可保存清单。",
+        "x": "跟进源头、事实更新和社区讨论，避免无来源扩散。",
+        "store": "用 newsletter、资料包、垂类清单或工具页承接。"
+      },
+      "score": 7.6
     },
     {
       "id": "kospi",
       "name": "kospi",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
-      "heat": 99,
+      "heat": 98,
       "viral": 7,
       "commerce": 6,
       "longTerm": 6,
@@ -150,7 +189,7 @@
       "name": "jaswant singh khalra",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
-      "heat": 98,
+      "heat": 95,
       "viral": 7,
       "commerce": 6,
       "longTerm": 6,
@@ -182,14 +221,14 @@
         "x": "跟进源头、事实更新和社区讨论，避免无来源扩散。",
         "store": "用 newsletter、资料包、垂类清单或工具页承接。"
       },
-      "score": 7.6
+      "score": 7.5
     },
     {
       "id": "brennan-bernardino",
       "name": "brennan bernardino",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
-      "heat": 95,
+      "heat": 92,
       "viral": 7,
       "commerce": 6,
       "longTerm": 6,
@@ -221,14 +260,14 @@
         "x": "跟进源头、事实更新和社区讨论，避免无来源扩散。",
         "store": "用 newsletter、资料包、垂类清单或工具页承接。"
       },
-      "score": 7.5
+      "score": 7.4
     },
     {
       "id": "dreamdoll",
       "name": "dreamdoll",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
-      "heat": 89,
+      "heat": 86,
       "viral": 7,
       "commerce": 6,
       "longTerm": 6,
@@ -260,14 +299,14 @@
         "x": "跟进源头、事实更新和社区讨论，避免无来源扩散。",
         "store": "用 newsletter、资料包、垂类清单或工具页承接。"
       },
-      "score": 7.3
+      "score": 7.2
     },
     {
       "id": "new-jersey-fireboat-whale-collision",
       "name": "new jersey fireboat whale collision",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
-      "heat": 86,
+      "heat": 83,
       "viral": 7,
       "commerce": 6,
       "longTerm": 6,
@@ -299,14 +338,14 @@
         "x": "跟进源头、事实更新和社区讨论，避免无来源扩散。",
         "store": "用 newsletter、资料包、垂类清单或工具页承接。"
       },
-      "score": 7.2
+      "score": 7.1
     },
     {
       "id": "belgium",
       "name": "Belgium",
       "platforms": "X, Google Trends, Reddit, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
-      "heat": 83,
+      "heat": 80,
       "viral": 7,
       "commerce": 6,
       "longTerm": 6,
@@ -338,14 +377,14 @@
         "x": "跟进源头、事实更新和社区讨论，避免无来源扩散。",
         "store": "用 newsletter、资料包、垂类清单或工具页承接。"
       },
-      "score": 7.1
+      "score": 7
     },
     {
       "id": "pulisic",
       "name": "Pulisic",
       "platforms": "X, Google Trends, Reddit, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
-      "heat": 77,
+      "heat": 74,
       "viral": 7,
       "commerce": 6,
       "longTerm": 6,
@@ -355,45 +394,6 @@
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
       "interests": "Pulisic, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
-      "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
-      "ageBuckets": {
-        "13-17": 8,
-        "18-24": 30,
-        "25-34": 34,
-        "35-44": 18,
-        "45+": 10
-      },
-      "countries": {
-        "美国": 100,
-        "加拿大": 32,
-        "英国": 30,
-        "澳大利亚": 22,
-        "印度": 18,
-        "巴西": 14
-      },
-      "playbook": {
-        "tiktok": "先做 3 秒钩子解释为什么突然火，再给背景、争议点和评论问题。",
-        "instagram": "Carousel 做信息卡、时间线、关键观点和可保存清单。",
-        "x": "跟进源头、事实更新和社区讨论，避免无来源扩散。",
-        "store": "用 newsletter、资料包、垂类清单或工具页承接。"
-      },
-      "score": 6.8
-    },
-    {
-      "id": "letterman",
-      "name": "letterman",
-      "platforms": "Google Trends, Reddit, X, News",
-      "category": "综合热点 / 社交讨论 / 内容机会",
-      "heat": 74,
-      "viral": 7,
-      "commerce": 6,
-      "longTerm": 6,
-      "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「letterman」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
-      "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
-      "age": "18-44 岁为主。",
-      "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "letterman, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
