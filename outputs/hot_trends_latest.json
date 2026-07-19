@@ -1,5 +1,5 @@
 {
-  "reportDate": "2026-07-18",
+  "reportDate": "2026-07-19",
   "status": "云端自动更新完成。采集 60 条公开源候选，生成 Top10。",
   "sources": [
     [
@@ -17,7 +17,7 @@
     [
       "GDELT US News",
       "失败",
-      "This operation was aborted",
+      "HTTP 429",
       "https://api.gdeltproject.org/api/v2/doc/doc?query=United%20States&mode=ArtList&format=json&maxrecords=50&sort=HybridRel"
     ],
     [
@@ -29,8 +29,8 @@
   ],
   "trends": [
     {
-      "id": "leioa-athletic",
-      "name": "leioa - athletic",
+      "id": "the-open-payouts-2026",
+      "name": "the open payouts 2026",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 99,
@@ -38,11 +38,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「leioa - athletic」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「the open payouts 2026」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "leioa - athletic, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "the open payouts 2026, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -68,8 +68,8 @@
       "score": 7.6
     },
     {
-      "id": "kristen-bell",
-      "name": "kristen bell",
+      "id": "summerslam-2026",
+      "name": "summerslam 2026",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 98,
@@ -77,11 +77,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「kristen bell」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「summerslam 2026」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "kristen bell, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "summerslam 2026, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -107,8 +107,8 @@
       "score": 7.6
     },
     {
-      "id": "portland-thorns-vs-denver-summit",
-      "name": "portland thorns vs denver summit",
+      "id": "depresi-n-tropical",
+      "name": "depresión tropical",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 95,
@@ -116,11 +116,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「portland thorns vs denver summit」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「depresión tropical」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "portland thorns vs denver summit, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "depresión tropical, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -146,8 +146,8 @@
       "score": 7.5
     },
     {
-      "id": "jentry-pace-critical-condition",
-      "name": "jentry pace critical condition",
+      "id": "ludvig-berg",
+      "name": "ludvig åberg",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 92,
@@ -155,11 +155,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「jentry pace critical condition」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「ludvig åberg」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "jentry pace critical condition, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "ludvig åberg, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -185,8 +185,8 @@
       "score": 7.4
     },
     {
-      "id": "vaccine",
-      "name": "vaccine",
+      "id": "ed-harris-dutton-ranch-season-2",
+      "name": "ed harris dutton ranch season 2",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 89,
@@ -194,11 +194,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「vaccine」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「ed harris dutton ranch season 2」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "vaccine, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "ed harris dutton ranch season 2, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -224,8 +224,8 @@
       "score": 7.3
     },
     {
-      "id": "maria-sakkari",
-      "name": "maria sakkari",
+      "id": "british-open-playoff-format",
+      "name": "british open playoff format",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 86,
@@ -233,11 +233,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「maria sakkari」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「british open playoff format」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "maria sakkari, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "british open playoff format, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -263,20 +263,20 @@
       "score": 7.2
     },
     {
-      "id": "rory",
-      "name": "Rory",
+      "id": "lu-dort",
+      "name": "Lu Dort",
       "platforms": "X, Google Trends, Reddit, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 83,
       "viral": 7,
       "commerce": 6,
       "longTerm": 6,
-      "source": "https://twitter.com/search?q=Rory",
-      "opportunity": "「Rory」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "source": "https://twitter.com/search?q=Lu%20Dort",
+      "opportunity": "「Lu Dort」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "Rory, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "Lu Dort, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -302,8 +302,8 @@
       "score": 7.1
     },
     {
-      "id": "alav-s-eibar",
-      "name": "alavés - eibar",
+      "id": "jeana-keough",
+      "name": "jeana keough",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 80,
@@ -311,11 +311,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「alavés - eibar」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「jeana keough」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "alavés - eibar, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "jeana keough, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -341,20 +341,20 @@
       "score": 7
     },
     {
-      "id": "finish",
-      "name": "Finish",
+      "id": "hawks",
+      "name": "Hawks",
       "platforms": "X, Google Trends, Reddit, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 77,
       "viral": 7,
       "commerce": 6,
       "longTerm": 6,
-      "source": "https://twitter.com/search?q=Finish",
-      "opportunity": "「Finish」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "source": "https://twitter.com/search?q=Hawks",
+      "opportunity": "「Hawks」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "Finish, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "Hawks, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -380,8 +380,8 @@
       "score": 6.8
     },
     {
-      "id": "bill-ackman",
-      "name": "bill ackman",
+      "id": "md-lottery",
+      "name": "md lottery",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 74,
@@ -389,11 +389,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「bill ackman」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「md lottery」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "bill ackman, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "md lottery, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
