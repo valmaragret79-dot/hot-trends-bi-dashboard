@@ -1,5 +1,5 @@
 {
-  "reportDate": "2026-07-22",
+  "reportDate": "2026-07-23",
   "status": "云端自动更新完成。采集 60 条公开源候选，生成 Top10。",
   "sources": [
     [
@@ -17,7 +17,7 @@
     [
       "GDELT US News",
       "失败",
-      "HTTP 429",
+      "This operation was aborted",
       "https://api.gdeltproject.org/api/v2/doc/doc?query=United%20States&mode=ArtList&format=json&maxrecords=50&sort=HybridRel"
     ],
     [
@@ -29,20 +29,59 @@
   ],
   "trends": [
     {
-      "id": "lynx-vs-storm",
-      "name": "lynx vs storm",
-      "platforms": "Google Trends, Reddit, X, News",
+      "id": "patrick-kane",
+      "name": "Patrick Kane",
+      "platforms": "X, TikTok, Instagram, Sports News",
+      "category": "体育 / 足球 / 赛事热点",
+      "heat": 80,
+      "viral": 9,
+      "commerce": 8,
+      "longTerm": 8,
+      "source": "https://twitter.com/search?q=Patrick%20Kane",
+      "opportunity": "England/Kane 代表英格兰队与 Harry Kane 相关赛事讨论升温，用户关心首发、进球、晋级路线和球迷争议；适合做赛前预测、球星表现评分和英格兰球迷内容。",
+      "persona": "体育迷、球队粉丝、轻度赛事观众、体育酒吧人群、球衣和周边消费者。",
+      "age": "16-44 岁，18-34 岁传播最活跃。",
+      "countriesText": "美国、英国、加拿大、墨西哥、巴西、欧洲主要足球市场。",
+      "interests": "Patrick Kane, 体育 / 足球 / 赛事热点, social trend, viral discussion",
+      "spending": "中高；球衣、观赛用品、酒吧消费、体育订阅和城市观赛活动都有转化空间。",
+      "ageBuckets": {
+        "13-17": 8,
+        "18-24": 30,
+        "25-34": 34,
+        "35-44": 18,
+        "45+": 10
+      },
+      "countries": {
+        "美国": 100,
+        "英国": 56,
+        "加拿大": 42,
+        "墨西哥": 40,
+        "巴西": 34,
+        "德国": 28
+      },
+      "playbook": {
+        "tiktok": "做 30-60 秒赛前/赛后拆解，开头直接抛争议问题，结尾引导评论区预测比分。",
+        "instagram": "Carousel 做对阵卡、关键球员、晋级路线和球迷穿搭；Reels 做街访或酒吧反应。",
+        "x": "实时跟进首发、伤停、裁判、采访和球迷情绪，事实与观点分层。",
+        "store": "球衣、围巾、观赛派对用品、体育酒吧地图、赛事旅行清单。"
+      },
+      "score": 8.3
+    },
+    {
+      "id": "vance-boelter",
+      "name": "vance boelter",
+      "platforms": "Google Trends, X, Reddit, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 99,
       "viral": 7,
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「lynx vs storm」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「vance boelter」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "lynx vs storm, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "vance boelter, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -68,8 +107,8 @@
       "score": 7.6
     },
     {
-      "id": "recreativo-huelva-real-betis",
-      "name": "recreativo huelva - real betis",
+      "id": "kyle-busch",
+      "name": "kyle busch",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 98,
@@ -77,11 +116,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「recreativo huelva - real betis」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「kyle busch」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "recreativo huelva - real betis, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "kyle busch, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -107,8 +146,8 @@
       "score": 7.6
     },
     {
-      "id": "bald-eagle-jackie-rescue",
-      "name": "bald eagle jackie rescue",
+      "id": "bradley-pierce-on-robin-williams",
+      "name": "bradley pierce on robin williams",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 95,
@@ -116,11 +155,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「bald eagle jackie rescue」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「bradley pierce on robin williams」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "bald eagle jackie rescue, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "bradley pierce on robin williams, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -146,47 +185,8 @@
       "score": 7.5
     },
     {
-      "id": "brown-bear",
-      "name": "brown bear",
-      "platforms": "Google Trends, Reddit, X, News",
-      "category": "综合热点 / 社交讨论 / 内容机会",
-      "heat": 92,
-      "viral": 7,
-      "commerce": 6,
-      "longTerm": 6,
-      "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「brown bear」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
-      "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
-      "age": "18-44 岁为主。",
-      "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "brown bear, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
-      "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
-      "ageBuckets": {
-        "13-17": 8,
-        "18-24": 30,
-        "25-34": 34,
-        "35-44": 18,
-        "45+": 10
-      },
-      "countries": {
-        "美国": 100,
-        "加拿大": 32,
-        "英国": 30,
-        "澳大利亚": 22,
-        "印度": 18,
-        "巴西": 14
-      },
-      "playbook": {
-        "tiktok": "先做 3 秒钩子解释为什么突然火，再给背景、争议点和评论问题。",
-        "instagram": "Carousel 做信息卡、时间线、关键观点和可保存清单。",
-        "x": "跟进源头、事实更新和社区讨论，避免无来源扩散。",
-        "store": "用 newsletter、资料包、垂类清单或工具页承接。"
-      },
-      "score": 7.4
-    },
-    {
-      "id": "stevenage-vs-west-ham",
-      "name": "stevenage vs west ham",
+      "id": "kylie-kelce-taylor-swift-relationship",
+      "name": "kylie kelce taylor swift relationship",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 89,
@@ -194,11 +194,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「stevenage vs west ham」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「kylie kelce taylor swift relationship」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "stevenage vs west ham, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "kylie kelce taylor swift relationship, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -224,8 +224,8 @@
       "score": 7.3
     },
     {
-      "id": "red-sox-score",
-      "name": "red sox score",
+      "id": "new-cyclospora-outbreak",
+      "name": "new cyclospora outbreak",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 86,
@@ -233,11 +233,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「red sox score」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「new cyclospora outbreak」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "red sox score, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "new cyclospora outbreak, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -263,20 +263,20 @@
       "score": 7.2
     },
     {
-      "id": "olandria",
-      "name": "Olandria",
-      "platforms": "X, Google Trends, Reddit, News",
+      "id": "resident-evil-2026",
+      "name": "resident evil 2026",
+      "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 83,
       "viral": 7,
       "commerce": 6,
       "longTerm": 6,
-      "source": "https://twitter.com/search?q=Olandria",
-      "opportunity": "「Olandria」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "source": "https://trends.google.com/trending/rss?geo=US",
+      "opportunity": "「resident evil 2026」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "Olandria, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "resident evil 2026, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -302,21 +302,21 @@
       "score": 7.1
     },
     {
-      "id": "red-sox",
-      "name": "red sox",
-      "platforms": "Google Trends, Reddit, X, News",
-      "category": "综合热点 / 社交讨论 / 内容机会",
-      "heat": 80,
+      "id": "amy-apos-s-lentil-soup-recall",
+      "name": "amy&apos;s lentil soup recall",
+      "platforms": "Google Trends, X, Reddit, News, YouTube",
+      "category": "公共议题 / 新闻解释 / 高风险话题",
+      "heat": 92,
       "viral": 7,
-      "commerce": 6,
-      "longTerm": 6,
+      "commerce": 3,
+      "longTerm": 7,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「red sox」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
-      "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
-      "age": "18-44 岁为主。",
-      "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "red sox, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
-      "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
+      "opportunity": "「amy&apos;s lentil soup recall」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "persona": "新闻关注者、公共议题讨论用户、专业解释内容受众。",
+      "age": "25-54 岁为主。",
+      "countriesText": "美国、加拿大、英国、澳大利亚。",
+      "interests": "amy&apos;s lentil soup recall, 公共议题 / 新闻解释 / 高风险话题, social trend, viral discussion",
+      "spending": "低；更适合信息服务、newsletter、资料库和事实核查，不建议硬带货。",
       "ageBuckets": {
         "13-17": 8,
         "18-24": 30,
@@ -326,35 +326,33 @@
       },
       "countries": {
         "美国": 100,
-        "加拿大": 32,
-        "英国": 30,
-        "澳大利亚": 22,
-        "印度": 18,
-        "巴西": 14
+        "加拿大": 24,
+        "英国": 20,
+        "澳大利亚": 14
       },
       "playbook": {
-        "tiktok": "先做 3 秒钩子解释为什么突然火，再给背景、争议点和评论问题。",
-        "instagram": "Carousel 做信息卡、时间线、关键观点和可保存清单。",
-        "x": "跟进源头、事实更新和社区讨论，避免无来源扩散。",
-        "store": "用 newsletter、资料包、垂类清单或工具页承接。"
+        "tiktok": "只做中性解释：发生了什么、哪些说法未证实、下一步看什么。",
+        "instagram": "Carousel 做术语解释、时间线和关键问题。",
+        "x": "严格引用源头，标注未证实内容，不扩散截图流言。",
+        "store": "FAQ、资料库、newsletter；不建议直接带货。"
       },
-      "score": 7
+      "score": 6.9
     },
     {
-      "id": "arrowhead",
-      "name": "Arrowhead",
-      "platforms": "X, Google Trends, Reddit, News",
+      "id": "software",
+      "name": "software",
+      "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 77,
       "viral": 7,
       "commerce": 6,
       "longTerm": 6,
-      "source": "https://twitter.com/search?q=Arrowhead",
-      "opportunity": "「Arrowhead」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "source": "https://trends.google.com/trending/rss?geo=US",
+      "opportunity": "「software」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "Arrowhead, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "software, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -380,20 +378,20 @@
       "score": 6.8
     },
     {
-      "id": "mercury-vs-sparks",
-      "name": "mercury vs sparks",
-      "platforms": "Google Trends, Reddit, X, News",
+      "id": "griffin-canning",
+      "name": "Griffin Canning",
+      "platforms": "X, Google Trends, Reddit, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 74,
       "viral": 7,
       "commerce": 6,
       "longTerm": 6,
-      "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「mercury vs sparks」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "source": "https://twitter.com/search?q=Griffin%20Canning",
+      "opportunity": "「Griffin Canning」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "mercury vs sparks, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "Griffin Canning, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
