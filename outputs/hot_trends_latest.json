@@ -1,5 +1,5 @@
 {
-  "reportDate": "2026-09-05",
+  "reportDate": "2026-09-06",
   "status": "云端自动更新完成。采集 60 条公开源候选，生成 Top10。",
   "sources": [
     [
@@ -29,20 +29,20 @@
   ],
   "trends": [
     {
-      "id": "ufcparis",
-      "name": "#UFCParis",
-      "platforms": "X, TikTok, Instagram, Pinterest, Google Trends",
+      "id": "valencia-cf-vs-fc-barcelona-standings",
+      "name": "valencia cf vs fc barcelona standings",
+      "platforms": "Google Trends, TikTok, Instagram, Pinterest",
       "category": "旅行 / 城市生活 / 本地攻略",
-      "heat": 77,
+      "heat": 80,
       "viral": 8,
       "commerce": 8,
       "longTerm": 8,
-      "source": "https://twitter.com/search?q=%23UFCParis",
-      "opportunity": "「#UFCParis」是本地地名或社区事件搜索上升，必须先核验事件源，再做地点、影响、时间线和资源清单；适合本地资讯号，不适合硬带货。",
+      "source": "https://trends.google.com/trending/rss?geo=US",
+      "opportunity": "「valencia cf vs fc barcelona standings」是本地地名或社区事件搜索上升，必须先核验事件源，再做地点、影响、时间线和资源清单；适合本地资讯号，不适合硬带货。",
       "persona": "旅行计划用户、城市生活方式受众、本地活动用户、酒店/门票/餐厅消费人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、英国、加拿大、西班牙、法国、澳大利亚。",
-      "interests": "#UFCParis, 旅行 / 城市生活 / 本地攻略, social trend, viral discussion",
+      "interests": "valencia cf vs fc barcelona standings, 旅行 / 城市生活 / 本地攻略, social trend, viral discussion",
       "spending": "高；酒店、门票、餐厅、交通、旅行用品和城市地图都有明确转化。",
       "ageBuckets": {
         "13-17": 8,
@@ -65,23 +65,23 @@
         "x": "跟进航班、天气、活动和本地突发提醒。",
         "store": "城市地图、行程 PDF、酒店/门票/餐厅联盟链接、旅行用品专题页。"
       },
-      "score": 7.9
+      "score": 8
     },
     {
-      "id": "arthur-smith",
-      "name": "arthur smith",
+      "id": "is-trader-joe-apos-s-open-on-labor-day",
+      "name": "is trader joe&apos;s open on labor day",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
-      "heat": 98,
+      "heat": 99,
       "viral": 7,
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「arthur smith」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「is trader joe&apos;s open on labor day」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "arthur smith, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "is trader joe&apos;s open on labor day, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -107,8 +107,47 @@
       "score": 7.6
     },
     {
-      "id": "athletic-bilbao-vs-atl-tico-madrid-standings",
-      "name": "athletic bilbao vs atlético madrid standings",
+      "id": "martin-degaard",
+      "name": "martin ødegaard",
+      "platforms": "Google Trends, Reddit, X, News",
+      "category": "综合热点 / 社交讨论 / 内容机会",
+      "heat": 98,
+      "viral": 7,
+      "commerce": 6,
+      "longTerm": 6,
+      "source": "https://trends.google.com/trending/rss?geo=US",
+      "opportunity": "「martin ødegaard」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
+      "age": "18-44 岁为主。",
+      "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
+      "interests": "martin ødegaard, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
+      "ageBuckets": {
+        "13-17": 8,
+        "18-24": 30,
+        "25-34": 34,
+        "35-44": 18,
+        "45+": 10
+      },
+      "countries": {
+        "美国": 100,
+        "加拿大": 32,
+        "英国": 30,
+        "澳大利亚": 22,
+        "印度": 18,
+        "巴西": 14
+      },
+      "playbook": {
+        "tiktok": "先做 3 秒钩子解释为什么突然火，再给背景、争议点和评论问题。",
+        "instagram": "Carousel 做信息卡、时间线、关键观点和可保存清单。",
+        "x": "跟进源头、事实更新和社区讨论，避免无来源扩散。",
+        "store": "用 newsletter、资料包、垂类清单或工具页承接。"
+      },
+      "score": 7.6
+    },
+    {
+      "id": "republicans-and-trump-midterms",
+      "name": "republicans and trump midterms",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 95,
@@ -116,11 +155,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「athletic bilbao vs atlético madrid standings」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「republicans and trump midterms」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "athletic bilbao vs atlético madrid standings, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "republicans and trump midterms, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -146,8 +185,8 @@
       "score": 7.5
     },
     {
-      "id": "ej-crowell",
-      "name": "ej crowell",
+      "id": "louisville-volleyball",
+      "name": "louisville volleyball",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 92,
@@ -155,11 +194,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「ej crowell」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「louisville volleyball」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "ej crowell, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "louisville volleyball, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -185,8 +224,8 @@
       "score": 7.4
     },
     {
-      "id": "klaudia-sygula",
-      "name": "klaudia sygula",
+      "id": "postal-voting",
+      "name": "postal voting",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 89,
@@ -194,11 +233,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「klaudia sygula」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「postal voting」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "klaudia sygula, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "postal voting, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -224,8 +263,8 @@
       "score": 7.3
     },
     {
-      "id": "ram-suv",
-      "name": "ram suv",
+      "id": "bologna-vs-sassuolo",
+      "name": "bologna vs sassuolo",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 86,
@@ -233,11 +272,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「ram suv」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「bologna vs sassuolo」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "ram suv, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "bologna vs sassuolo, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -263,56 +302,20 @@
       "score": 7.2
     },
     {
-      "id": "bo-jackson-ohio-state",
-      "name": "bo jackson ohio state",
-      "platforms": "Google Trends, X, Local News, Reddit",
-      "category": "本地新闻 / 城市话题 / 社区关注",
-      "heat": 99,
-      "viral": 6,
-      "commerce": 5,
-      "longTerm": 6,
-      "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「bo jackson ohio state」是本地地名或社区事件搜索上升，必须先核验事件源，再做地点、影响、时间线和资源清单；适合本地资讯号，不适合硬带货。",
-      "persona": "本地居民、家庭用户、社区新闻关注者、城市生活内容受众。",
-      "age": "25-54 岁为主。",
-      "countriesText": "美国为核心，按城市/州扩散。",
-      "interests": "bo jackson ohio state, 本地新闻 / 城市话题 / 社区关注, social trend, viral discussion",
-      "spending": "中低；适合本地清单、地图、服务信息和 newsletter，不适合硬带货。",
-      "ageBuckets": {
-        "13-17": 8,
-        "18-24": 30,
-        "25-34": 34,
-        "35-44": 18,
-        "45+": 10
-      },
-      "countries": {
-        "美国": 100,
-        "加拿大": 8,
-        "英国": 5
-      },
-      "playbook": {
-        "tiktok": "先讲清地点、事件、影响人群和下一步看什么，避免无来源猜测。",
-        "instagram": "Carousel 做时间线、地图、本地资源和 FAQ。",
-        "x": "只转官方/本地媒体源，标注未确认信息。",
-        "store": "本地资源页、地图、服务清单、社区 newsletter。"
-      },
-      "score": 7.1
-    },
-    {
-      "id": "nick-marsh",
-      "name": "Nick Marsh",
+      "id": "everton",
+      "name": "Everton",
       "platforms": "X, Google Trends, Reddit, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 83,
       "viral": 7,
       "commerce": 6,
       "longTerm": 6,
-      "source": "https://twitter.com/search?q=Nick%20Marsh",
-      "opportunity": "「Nick Marsh」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "source": "https://twitter.com/search?q=Everton",
+      "opportunity": "「Everton」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "Nick Marsh, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "Everton, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -338,20 +341,20 @@
       "score": 7.1
     },
     {
-      "id": "michael-aljarouj",
-      "name": "michael aljarouj",
-      "platforms": "Google Trends, Reddit, X, News",
+      "id": "kimi",
+      "name": "Kimi",
+      "platforms": "X, Google Trends, Reddit, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
-      "heat": 80,
+      "heat": 77,
       "viral": 7,
       "commerce": 6,
       "longTerm": 6,
-      "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「michael aljarouj」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "source": "https://twitter.com/search?q=Kimi",
+      "opportunity": "「Kimi」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "michael aljarouj, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "Kimi, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -374,11 +377,11 @@
         "x": "跟进源头、事实更新和社区讨论，避免无来源扩散。",
         "store": "用 newsletter、资料包、垂类清单或工具页承接。"
       },
-      "score": 7
+      "score": 6.8
     },
     {
-      "id": "mar-timo-vs-benfica",
-      "name": "marítimo vs benfica",
+      "id": "braves-phillies",
+      "name": "braves - phillies",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 74,
@@ -386,11 +389,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「marítimo vs benfica」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「braves - phillies」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "marítimo vs benfica, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "braves - phillies, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
