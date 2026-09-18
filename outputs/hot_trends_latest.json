@@ -1,5 +1,5 @@
 {
-  "reportDate": "2026-09-17",
+  "reportDate": "2026-09-18",
   "status": "云端自动更新完成。采集 60 条公开源候选，生成 Top10。",
   "sources": [
     [
@@ -17,7 +17,7 @@
     [
       "GDELT US News",
       "失败",
-      "fetch failed",
+      "HTTP 429",
       "https://api.gdeltproject.org/api/v2/doc/doc?query=United%20States&mode=ArtList&format=json&maxrecords=50&sort=HybridRel"
     ],
     [
@@ -29,8 +29,86 @@
   ],
   "trends": [
     {
-      "id": "real-sociedad-vs-bournemouth",
-      "name": "real sociedad vs bournemouth",
+      "id": "elon-musk-memphis-airstream-trailer",
+      "name": "elon musk memphis airstream trailer",
+      "platforms": "Google Trends, TikTok, Instagram, X, YouTube",
+      "category": "娱乐 / 影视音乐 / 粉圈讨论",
+      "heat": 98,
+      "viral": 9,
+      "commerce": 6,
+      "longTerm": 7,
+      "source": "https://trends.google.com/trending/rss?geo=US",
+      "opportunity": "「elon musk memphis airstream trailer」是娱乐人物或作品相关搜索上升，用户想知道“为什么突然火、发生了什么、有哪些片段可看”；适合做时间线、作品盘点、粉圈反应和穿搭/美妆/歌单承接。",
+      "persona": "娱乐八卦受众、粉圈用户、影视剧观众、音乐用户、穿搭和美妆消费人群。",
+      "age": "16-34 岁传播最活跃。",
+      "countriesText": "美国、英国、加拿大、澳大利亚、菲律宾、巴西。",
+      "interests": "elon musk memphis airstream trailer, 娱乐 / 影视音乐 / 粉圈讨论, social trend, viral discussion",
+      "spending": "中；可承接穿搭、美妆、歌单、周边、会员订阅和社群。",
+      "ageBuckets": {
+        "13-17": 8,
+        "18-24": 30,
+        "25-34": 34,
+        "35-44": 18,
+        "45+": 10
+      },
+      "countries": {
+        "美国": 100,
+        "英国": 48,
+        "加拿大": 36,
+        "澳大利亚": 30,
+        "菲律宾": 26,
+        "巴西": 22
+      },
+      "playbook": {
+        "tiktok": "用 15-30 秒讲清冲突点、名场面或争议，结尾让用户站队。",
+        "instagram": "Carousel 做角色关系图、红黑榜、穿搭同款和剧情时间线。",
+        "x": "跟进实时热梗、粉圈争议和官方物料，注意事实与猜测分层。",
+        "store": "穿搭同款、美妆清单、歌单、周边、剧情复盘专题和 newsletter。"
+      },
+      "score": 8.3
+    },
+    {
+      "id": "what-did-stanford-researchers-discover-about-the-human-brain-bei",
+      "name": "what did stanford researchers discover about the human brain being two separate organs",
+      "platforms": "Google Trends, TikTok, Instagram, X, YouTube",
+      "category": "娱乐 / 影视音乐 / 粉圈讨论",
+      "heat": 92,
+      "viral": 9,
+      "commerce": 6,
+      "longTerm": 7,
+      "source": "https://trends.google.com/trending/rss?geo=US",
+      "opportunity": "Cher 是经典娱乐人物名搜索上升，用户通常在追最新露面、纪念节点、演出/传记/关系话题或 viral clip；适合做“为什么又上热搜”的时间线、经典作品回顾和粉丝向短内容。",
+      "persona": "娱乐八卦受众、粉圈用户、影视剧观众、音乐用户、穿搭和美妆消费人群。",
+      "age": "16-34 岁传播最活跃。",
+      "countriesText": "美国、英国、加拿大、澳大利亚、菲律宾、巴西。",
+      "interests": "what did stanford researchers discover about the human brain being two separate organs, 娱乐 / 影视音乐 / 粉圈讨论, social trend, viral discussion",
+      "spending": "中；可承接穿搭、美妆、歌单、周边、会员订阅和社群。",
+      "ageBuckets": {
+        "13-17": 8,
+        "18-24": 30,
+        "25-34": 34,
+        "35-44": 18,
+        "45+": 10
+      },
+      "countries": {
+        "美国": 100,
+        "英国": 48,
+        "加拿大": 36,
+        "澳大利亚": 30,
+        "菲律宾": 26,
+        "巴西": 22
+      },
+      "playbook": {
+        "tiktok": "用 15-30 秒讲清冲突点、名场面或争议，结尾让用户站队。",
+        "instagram": "Carousel 做角色关系图、红黑榜、穿搭同款和剧情时间线。",
+        "x": "跟进实时热梗、粉圈争议和官方物料，注意事实与猜测分层。",
+        "store": "穿搭同款、美妆清单、歌单、周边、剧情复盘专题和 newsletter。"
+      },
+      "score": 8.1
+    },
+    {
+      "id": "flash-flood-watch",
+      "name": "flash flood watch",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 99,
@@ -38,11 +116,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「real sociedad vs bournemouth」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「flash flood watch」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "real sociedad vs bournemouth, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "flash flood watch, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -68,47 +146,8 @@
       "score": 7.6
     },
     {
-      "id": "palace-vs-lech-pozna",
-      "name": "palace vs lech poznań",
-      "platforms": "Google Trends, Reddit, X, News",
-      "category": "综合热点 / 社交讨论 / 内容机会",
-      "heat": 98,
-      "viral": 7,
-      "commerce": 6,
-      "longTerm": 6,
-      "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「palace vs lech poznań」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
-      "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
-      "age": "18-44 岁为主。",
-      "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "palace vs lech poznań, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
-      "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
-      "ageBuckets": {
-        "13-17": 8,
-        "18-24": 30,
-        "25-34": 34,
-        "35-44": 18,
-        "45+": 10
-      },
-      "countries": {
-        "美国": 100,
-        "加拿大": 32,
-        "英国": 30,
-        "澳大利亚": 22,
-        "印度": 18,
-        "巴西": 14
-      },
-      "playbook": {
-        "tiktok": "先做 3 秒钩子解释为什么突然火，再给背景、争议点和评论问题。",
-        "instagram": "Carousel 做信息卡、时间线、关键观点和可保存清单。",
-        "x": "跟进源头、事实更新和社区讨论，避免无来源扩散。",
-        "store": "用 newsletter、资料包、垂类清单或工具页承接。"
-      },
-      "score": 7.6
-    },
-    {
-      "id": "halle-berry",
-      "name": "halle berry",
+      "id": "riot-fest-2026",
+      "name": "riot fest 2026",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 95,
@@ -116,11 +155,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「halle berry」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「riot fest 2026」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "halle berry, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "riot fest 2026, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -146,47 +185,8 @@
       "score": 7.5
     },
     {
-      "id": "grand-theft-auto-vi",
-      "name": "grand theft auto vi",
-      "platforms": "Google Trends, Reddit, X, News",
-      "category": "综合热点 / 社交讨论 / 内容机会",
-      "heat": 92,
-      "viral": 7,
-      "commerce": 6,
-      "longTerm": 6,
-      "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「grand theft auto vi」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
-      "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
-      "age": "18-44 岁为主。",
-      "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "grand theft auto vi, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
-      "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
-      "ageBuckets": {
-        "13-17": 8,
-        "18-24": 30,
-        "25-34": 34,
-        "35-44": 18,
-        "45+": 10
-      },
-      "countries": {
-        "美国": 100,
-        "加拿大": 32,
-        "英国": 30,
-        "澳大利亚": 22,
-        "印度": 18,
-        "巴西": 14
-      },
-      "playbook": {
-        "tiktok": "先做 3 秒钩子解释为什么突然火，再给背景、争议点和评论问题。",
-        "instagram": "Carousel 做信息卡、时间线、关键观点和可保存清单。",
-        "x": "跟进源头、事实更新和社区讨论，避免无来源扩散。",
-        "store": "用 newsletter、资料包、垂类清单或工具页承接。"
-      },
-      "score": 7.4
-    },
-    {
-      "id": "hoffenheim",
-      "name": "hoffenheim",
+      "id": "vs127",
+      "name": "vs127",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 89,
@@ -194,11 +194,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「hoffenheim」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「vs127」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "hoffenheim, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "vs127, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -224,8 +224,8 @@
       "score": 7.3
     },
     {
-      "id": "lexington-high-school",
-      "name": "lexington high school",
+      "id": "iranians-rally",
+      "name": "iranians rally",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 86,
@@ -233,11 +233,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「lexington high school」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「iranians rally」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "lexington high school, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "iranians rally, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -263,20 +263,20 @@
       "score": 7.2
     },
     {
-      "id": "dreamnastics",
-      "name": "#dreamnastics",
+      "id": "jana",
+      "name": "Jana",
       "platforms": "X, Google Trends, Reddit, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 83,
       "viral": 7,
       "commerce": 6,
       "longTerm": 6,
-      "source": "https://twitter.com/search?q=%23dreamnastics",
-      "opportunity": "「#dreamnastics」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "source": "https://twitter.com/search?q=Jana",
+      "opportunity": "「Jana」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "#dreamnastics, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "Jana, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -302,8 +302,8 @@
       "score": 7.1
     },
     {
-      "id": "debby-ryan-brain-injury",
-      "name": "debby ryan brain injury",
+      "id": "karandeep-anand",
+      "name": "karandeep anand",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 80,
@@ -311,11 +311,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「debby ryan brain injury」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「karandeep anand」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "debby ryan brain injury, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "karandeep anand, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -341,20 +341,20 @@
       "score": 7
     },
     {
-      "id": "kyle-harrison",
-      "name": "Kyle Harrison",
+      "id": "bianca",
+      "name": "Bianca",
       "platforms": "X, Google Trends, Reddit, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 77,
       "viral": 7,
       "commerce": 6,
       "longTerm": 6,
-      "source": "https://twitter.com/search?q=Kyle%20Harrison",
-      "opportunity": "「Kyle Harrison」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "source": "https://twitter.com/search?q=Bianca",
+      "opportunity": "「Bianca」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "Kyle Harrison, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "Bianca, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -380,8 +380,8 @@
       "score": 6.8
     },
     {
-      "id": "ofi-vs-hoffenheim",
-      "name": "ofi vs hoffenheim",
+      "id": "leah-pruett",
+      "name": "leah pruett",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 74,
@@ -389,11 +389,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「ofi vs hoffenheim」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「leah pruett」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "ofi vs hoffenheim, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "leah pruett, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
