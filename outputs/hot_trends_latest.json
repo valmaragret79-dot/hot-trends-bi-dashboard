@@ -1,5 +1,5 @@
 {
-  "reportDate": "2026-09-21",
+  "reportDate": "2026-09-22",
   "status": "云端自动更新完成。采集 60 条公开源候选，生成 Top10。",
   "sources": [
     [
@@ -17,7 +17,7 @@
     [
       "GDELT US News",
       "失败",
-      "HTTP 429",
+      "fetch failed",
       "https://api.gdeltproject.org/api/v2/doc/doc?query=United%20States&mode=ArtList&format=json&maxrecords=50&sort=HybridRel"
     ],
     [
@@ -29,20 +29,20 @@
   ],
   "trends": [
     {
-      "id": "messi",
-      "name": "messi",
-      "platforms": "Google Trends, Reddit, X, News",
+      "id": "kenny-moore",
+      "name": "kenny moore",
+      "platforms": "Google Trends, X, Reddit, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 99,
       "viral": 7,
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「messi」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「kenny moore」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "messi, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "kenny moore, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -68,8 +68,8 @@
       "score": 7.6
     },
     {
-      "id": "flores-amarillas",
-      "name": "flores amarillas",
+      "id": "detenci-n",
+      "name": "detención",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 98,
@@ -77,11 +77,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「flores amarillas」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「detención」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "flores amarillas, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "detención, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -107,8 +107,8 @@
       "score": 7.6
     },
     {
-      "id": "argentina",
-      "name": "argentina",
+      "id": "affordable-care-act",
+      "name": "affordable care act",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 95,
@@ -116,11 +116,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「argentina」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「affordable care act」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "argentina, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "affordable care act, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -146,8 +146,8 @@
       "score": 7.5
     },
     {
-      "id": "bryson-dechambeau",
-      "name": "bryson dechambeau",
+      "id": "bayern-vs-man-city",
+      "name": "bayern vs man city",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 92,
@@ -155,11 +155,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「bryson dechambeau」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「bayern vs man city」是本地地名或社区事件搜索上升，必须先核验事件源，再做地点、影响、时间线和资源清单；适合本地资讯号，不适合硬带货。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "bryson dechambeau, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "bayern vs man city, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -185,8 +185,8 @@
       "score": 7.4
     },
     {
-      "id": "meta-stock",
-      "name": "meta stock",
+      "id": "taylor-swift-countdown",
+      "name": "taylor swift countdown",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 89,
@@ -194,11 +194,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「meta stock」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「taylor swift countdown」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "meta stock, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "taylor swift countdown, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -224,8 +224,8 @@
       "score": 7.3
     },
     {
-      "id": "baseball",
-      "name": "baseball",
+      "id": "lionel-richie",
+      "name": "lionel richie",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 86,
@@ -233,11 +233,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「baseball」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「lionel richie」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "baseball, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "lionel richie, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -263,20 +263,20 @@
       "score": 7.2
     },
     {
-      "id": "destiny",
-      "name": "Destiny",
+      "id": "halo",
+      "name": "Halo",
       "platforms": "X, Google Trends, Reddit, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 83,
       "viral": 7,
       "commerce": 6,
       "longTerm": 6,
-      "source": "https://twitter.com/search?q=Destiny",
-      "opportunity": "「Destiny」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "source": "https://twitter.com/search?q=Halo",
+      "opportunity": "「Halo」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "Destiny, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "Halo, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -302,8 +302,8 @@
       "score": 7.1
     },
     {
-      "id": "el-nino",
-      "name": "el nino",
+      "id": "will-levis",
+      "name": "will levis",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 80,
@@ -311,11 +311,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「el nino」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「will levis」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "el nino, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "will levis, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -341,20 +341,20 @@
       "score": 7
     },
     {
-      "id": "fox-news",
-      "name": "Fox News",
+      "id": "activision",
+      "name": "Activision",
       "platforms": "X, Google Trends, Reddit, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 77,
       "viral": 7,
       "commerce": 6,
       "longTerm": 6,
-      "source": "https://twitter.com/search?q=Fox%20News",
-      "opportunity": "「Fox News」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "source": "https://twitter.com/search?q=Activision",
+      "opportunity": "「Activision」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "Fox News, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "Activision, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -380,8 +380,8 @@
       "score": 6.8
     },
     {
-      "id": "destiny-2",
-      "name": "destiny 2",
+      "id": "sc-lottery",
+      "name": "sc lottery",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 74,
@@ -389,11 +389,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「destiny 2」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「sc lottery」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "destiny 2, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "sc lottery, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
