@@ -1,5 +1,5 @@
 {
-  "reportDate": "2026-09-24",
+  "reportDate": "2026-09-25",
   "status": "云端自动更新完成。采集 60 条公开源候选，生成 Top10。",
   "sources": [
     [
@@ -17,7 +17,7 @@
     [
       "GDELT US News",
       "失败",
-      "fetch failed",
+      "This operation was aborted",
       "https://api.gdeltproject.org/api/v2/doc/doc?query=United%20States&mode=ArtList&format=json&maxrecords=50&sort=HybridRel"
     ],
     [
@@ -29,47 +29,8 @@
   ],
   "trends": [
     {
-      "id": "portugal-national-football-team",
-      "name": "portugal national football team",
-      "platforms": "Google Trends, X, TikTok, Instagram, Sports News",
-      "category": "体育 / 足球 / 赛事热点",
-      "heat": 92,
-      "viral": 9,
-      "commerce": 8,
-      "longTerm": 8,
-      "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「portugal national football team」是体育赛事/球队/球员相关搜索上升，用户核心需求是赛程、结果、首发、伤病、晋级条件和球迷争议；适合做解释卡、赛前预测、赛后评分和观赛/周边承接。",
-      "persona": "体育迷、球队粉丝、轻度赛事观众、体育酒吧人群、球衣和周边消费者。",
-      "age": "16-44 岁，18-34 岁传播最活跃。",
-      "countriesText": "美国、英国、加拿大、墨西哥、巴西、欧洲主要足球市场。",
-      "interests": "portugal national football team, 体育 / 足球 / 赛事热点, social trend, viral discussion",
-      "spending": "中高；球衣、观赛用品、酒吧消费、体育订阅和城市观赛活动都有转化空间。",
-      "ageBuckets": {
-        "13-17": 8,
-        "18-24": 30,
-        "25-34": 34,
-        "35-44": 18,
-        "45+": 10
-      },
-      "countries": {
-        "美国": 100,
-        "英国": 56,
-        "加拿大": 42,
-        "墨西哥": 40,
-        "巴西": 34,
-        "德国": 28
-      },
-      "playbook": {
-        "tiktok": "做 30-60 秒赛前/赛后拆解，开头直接抛争议问题，结尾引导评论区预测比分。",
-        "instagram": "Carousel 做对阵卡、关键球员、晋级路线和球迷穿搭；Reels 做街访或酒吧反应。",
-        "x": "实时跟进首发、伤停、裁判、采访和球迷情绪，事实与观点分层。",
-        "store": "球衣、围巾、观赛派对用品、体育酒吧地图、赛事旅行清单。"
-      },
-      "score": 8.7
-    },
-    {
-      "id": "taylor-mcgregor",
-      "name": "taylor mcgregor",
+      "id": "hungary-vs-ukraine",
+      "name": "hungary vs ukraine",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 99,
@@ -77,11 +38,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「taylor mcgregor」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「hungary vs ukraine」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "taylor mcgregor, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "hungary vs ukraine, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -107,8 +68,8 @@
       "score": 7.6
     },
     {
-      "id": "theragun-y2k-mini",
-      "name": "theragun y2k mini",
+      "id": "egipto-angola",
+      "name": "egipto - angola",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 98,
@@ -116,11 +77,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「theragun y2k mini」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「egipto - angola」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "theragun y2k mini, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "egipto - angola, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -146,8 +107,8 @@
       "score": 7.6
     },
     {
-      "id": "portugal-vs-wales",
-      "name": "portugal vs wales",
+      "id": "egypt-vs-angola",
+      "name": "egypt vs angola",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 95,
@@ -155,11 +116,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「portugal vs wales」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「egypt vs angola」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "portugal vs wales, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "egypt vs angola, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -185,8 +146,47 @@
       "score": 7.5
     },
     {
-      "id": "guy-ritchie",
-      "name": "guy ritchie",
+      "id": "milania-giudice-personal-struggles",
+      "name": "milania giudice personal struggles",
+      "platforms": "Google Trends, Reddit, X, News",
+      "category": "综合热点 / 社交讨论 / 内容机会",
+      "heat": 92,
+      "viral": 7,
+      "commerce": 6,
+      "longTerm": 6,
+      "source": "https://trends.google.com/trending/rss?geo=US",
+      "opportunity": "「milania giudice personal struggles」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
+      "age": "18-44 岁为主。",
+      "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
+      "interests": "milania giudice personal struggles, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
+      "ageBuckets": {
+        "13-17": 8,
+        "18-24": 30,
+        "25-34": 34,
+        "35-44": 18,
+        "45+": 10
+      },
+      "countries": {
+        "美国": 100,
+        "加拿大": 32,
+        "英国": 30,
+        "澳大利亚": 22,
+        "印度": 18,
+        "巴西": 14
+      },
+      "playbook": {
+        "tiktok": "先做 3 秒钩子解释为什么突然火，再给背景、争议点和评论问题。",
+        "instagram": "Carousel 做信息卡、时间线、关键观点和可保存清单。",
+        "x": "跟进源头、事实更新和社区讨论，避免无来源扩散。",
+        "store": "用 newsletter、资料包、垂类清单或工具页承接。"
+      },
+      "score": 7.4
+    },
+    {
+      "id": "morocco-vs-gabon",
+      "name": "morocco vs gabon",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 89,
@@ -194,11 +194,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「guy ritchie」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「morocco vs gabon」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "guy ritchie, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "morocco vs gabon, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -224,8 +224,8 @@
       "score": 7.3
     },
     {
-      "id": "student-loan",
-      "name": "student loan",
+      "id": "france",
+      "name": "france",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 86,
@@ -233,11 +233,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「student loan」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「france」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "student loan, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "france, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -263,20 +263,20 @@
       "score": 7.2
     },
     {
-      "id": "olandriaxrobertocavalli",
-      "name": "#OlandriaxRobertoCavalli",
+      "id": "breaking-bad",
+      "name": "Breaking Bad",
       "platforms": "X, Google Trends, Reddit, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 83,
       "viral": 7,
       "commerce": 6,
       "longTerm": 6,
-      "source": "https://twitter.com/search?q=%23OlandriaxRobertoCavalli",
-      "opportunity": "「#OlandriaxRobertoCavalli」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "source": "https://twitter.com/search?q=Breaking%20Bad",
+      "opportunity": "「Breaking Bad」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "#OlandriaxRobertoCavalli, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "Breaking Bad, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -302,8 +302,8 @@
       "score": 7.1
     },
     {
-      "id": "norway-vs-denmark",
-      "name": "norway vs denmark",
+      "id": "kyiv",
+      "name": "kyiv",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 80,
@@ -311,11 +311,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「norway vs denmark」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「kyiv」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "norway vs denmark, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "kyiv, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -341,20 +341,20 @@
       "score": 7
     },
     {
-      "id": "no-fun-league",
-      "name": "No Fun League",
+      "id": "the-wire",
+      "name": "The Wire",
       "platforms": "X, Google Trends, Reddit, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 77,
       "viral": 7,
       "commerce": 6,
       "longTerm": 6,
-      "source": "https://twitter.com/search?q=No%20Fun%20League",
-      "opportunity": "「No Fun League」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "source": "https://twitter.com/search?q=The%20Wire",
+      "opportunity": "「The Wire」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "No Fun League, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "The Wire, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -380,8 +380,8 @@
       "score": 6.8
     },
     {
-      "id": "netherlands-vs-germany",
-      "name": "netherlands vs germany",
+      "id": "italia-b-lgica",
+      "name": "italia - bélgica",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 74,
@@ -389,11 +389,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「netherlands vs germany」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「italia - bélgica」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "netherlands vs germany, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "italia - bélgica, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
