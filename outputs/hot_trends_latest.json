@@ -1,6 +1,6 @@
 {
-  "reportDate": "2026-09-29",
-  "status": "云端自动更新完成。采集 60 条公开源候选，生成 Top10。",
+  "reportDate": "2026-09-30",
+  "status": "云端自动更新完成。采集 10 条公开源候选，生成 Top10。",
   "sources": [
     [
       "Google Trends US RSS",
@@ -17,20 +17,20 @@
     [
       "GDELT US News",
       "失败",
-      "HTTP 429",
+      "This operation was aborted",
       "https://api.gdeltproject.org/api/v2/doc/doc?query=United%20States&mode=ArtList&format=json&maxrecords=50&sort=HybridRel"
     ],
     [
       "Trends24 United States",
-      "成功",
-      "X",
+      "失败",
+      "HTTP 403",
       "https://trends24.in/united-states/"
     ]
   ],
   "trends": [
     {
-      "id": "john-kruk",
-      "name": "john kruk",
+      "id": "winter-storm",
+      "name": "winter storm",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 99,
@@ -38,11 +38,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「john kruk」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「winter storm」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "john kruk, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "winter storm, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -68,8 +68,8 @@
       "score": 7.6
     },
     {
-      "id": "san-marino-vs-albania",
-      "name": "san marino vs albania",
+      "id": "oakbrook-mall",
+      "name": "oakbrook mall",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 98,
@@ -77,11 +77,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「san marino vs albania」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「oakbrook mall」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "san marino vs albania, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "oakbrook mall, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -107,8 +107,8 @@
       "score": 7.6
     },
     {
-      "id": "spain-fc",
-      "name": "spain fc",
+      "id": "matt-olson",
+      "name": "matt olson",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 95,
@@ -116,11 +116,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「spain fc」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「matt olson」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "spain fc, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "matt olson, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -146,86 +146,8 @@
       "score": 7.5
     },
     {
-      "id": "mike-yastrzemski",
-      "name": "mike yastrzemski",
-      "platforms": "Google Trends, X, Reddit, News",
-      "category": "综合热点 / 社交讨论 / 内容机会",
-      "heat": 92,
-      "viral": 7,
-      "commerce": 6,
-      "longTerm": 6,
-      "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「mike yastrzemski」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
-      "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
-      "age": "18-44 岁为主。",
-      "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "mike yastrzemski, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
-      "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
-      "ageBuckets": {
-        "13-17": 8,
-        "18-24": 30,
-        "25-34": 34,
-        "35-44": 18,
-        "45+": 10
-      },
-      "countries": {
-        "美国": 100,
-        "加拿大": 32,
-        "英国": 30,
-        "澳大利亚": 22,
-        "印度": 18,
-        "巴西": 14
-      },
-      "playbook": {
-        "tiktok": "先做 3 秒钩子解释为什么突然火，再给背景、争议点和评论问题。",
-        "instagram": "Carousel 做信息卡、时间线、关键观点和可保存清单。",
-        "x": "跟进源头、事实更新和社区讨论，避免无来源扩散。",
-        "store": "用 newsletter、资料包、垂类清单或工具页承接。"
-      },
-      "score": 7.4
-    },
-    {
-      "id": "jason-kelce-espn-broadcast-apology",
-      "name": "jason kelce espn broadcast apology",
-      "platforms": "Google Trends, Reddit, X, News",
-      "category": "综合热点 / 社交讨论 / 内容机会",
-      "heat": 89,
-      "viral": 7,
-      "commerce": 6,
-      "longTerm": 6,
-      "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「jason kelce espn broadcast apology」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
-      "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
-      "age": "18-44 岁为主。",
-      "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "jason kelce espn broadcast apology, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
-      "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
-      "ageBuckets": {
-        "13-17": 8,
-        "18-24": 30,
-        "25-34": 34,
-        "35-44": 18,
-        "45+": 10
-      },
-      "countries": {
-        "美国": 100,
-        "加拿大": 32,
-        "英国": 30,
-        "澳大利亚": 22,
-        "印度": 18,
-        "巴西": 14
-      },
-      "playbook": {
-        "tiktok": "先做 3 秒钩子解释为什么突然火，再给背景、争议点和评论问题。",
-        "instagram": "Carousel 做信息卡、时间线、关键观点和可保存清单。",
-        "x": "跟进源头、事实更新和社区讨论，避免无来源扩散。",
-        "store": "用 newsletter、资料包、垂类清单或工具页承接。"
-      },
-      "score": 7.3
-    },
-    {
-      "id": "eric-schmidt",
-      "name": "eric schmidt",
+      "id": "lyon-vs-chelsea",
+      "name": "lyon vs chelsea",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 86,
@@ -233,11 +155,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「eric schmidt」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「lyon vs chelsea」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "eric schmidt, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "lyon vs chelsea, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -263,8 +185,8 @@
       "score": 7.2
     },
     {
-      "id": "escocia-suiza",
-      "name": "escocia - suiza",
+      "id": "ronaldo",
+      "name": "ronaldo",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 83,
@@ -272,11 +194,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「escocia - suiza」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「ronaldo」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "escocia - suiza, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "ronaldo, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -302,20 +224,20 @@
       "score": 7.1
     },
     {
-      "id": "jack-smith",
-      "name": "Jack Smith",
-      "platforms": "X, Google Trends, Reddit, News",
+      "id": "braves",
+      "name": "braves",
+      "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 80,
       "viral": 7,
       "commerce": 6,
       "longTerm": 6,
-      "source": "https://twitter.com/search?q=Jack%20Smith",
-      "opportunity": "「Jack Smith」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "source": "https://trends.google.com/trending/rss?geo=US",
+      "opportunity": "「braves」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "Jack Smith, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "braves, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -341,8 +263,82 @@
       "score": 7
     },
     {
-      "id": "congo-vs-cameroon",
-      "name": "congo vs cameroon",
+      "id": "senate-vote-on-lawmaker-stock-restrictions",
+      "name": "senate vote on lawmaker stock restrictions",
+      "platforms": "Google Trends, X, Reddit, News, YouTube",
+      "category": "公共议题 / 新闻解释 / 高风险话题",
+      "heat": 92,
+      "viral": 7,
+      "commerce": 3,
+      "longTerm": 7,
+      "source": "https://trends.google.com/trending/rss?geo=US",
+      "opportunity": "「senate vote on lawmaker stock restrictions」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "persona": "新闻关注者、公共议题讨论用户、专业解释内容受众。",
+      "age": "25-54 岁为主。",
+      "countriesText": "美国、加拿大、英国、澳大利亚。",
+      "interests": "senate vote on lawmaker stock restrictions, 公共议题 / 新闻解释 / 高风险话题, social trend, viral discussion",
+      "spending": "低；更适合信息服务、newsletter、资料库和事实核查，不建议硬带货。",
+      "ageBuckets": {
+        "13-17": 8,
+        "18-24": 30,
+        "25-34": 34,
+        "35-44": 18,
+        "45+": 10
+      },
+      "countries": {
+        "美国": 100,
+        "加拿大": 24,
+        "英国": 20,
+        "澳大利亚": 14
+      },
+      "playbook": {
+        "tiktok": "只做中性解释：发生了什么、哪些说法未证实、下一步看什么。",
+        "instagram": "Carousel 做术语解释、时间线和关键问题。",
+        "x": "严格引用源头，标注未证实内容，不扩散截图流言。",
+        "store": "FAQ、资料库、newsletter；不建议直接带货。"
+      },
+      "score": 6.9
+    },
+    {
+      "id": "graziers-raw-milk-cheese-recall",
+      "name": "graziers raw milk cheese recall",
+      "platforms": "Google Trends, X, Reddit, News, YouTube",
+      "category": "公共议题 / 新闻解释 / 高风险话题",
+      "heat": 89,
+      "viral": 7,
+      "commerce": 3,
+      "longTerm": 7,
+      "source": "https://trends.google.com/trending/rss?geo=US",
+      "opportunity": "「graziers raw milk cheese recall」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "persona": "新闻关注者、公共议题讨论用户、专业解释内容受众。",
+      "age": "25-54 岁为主。",
+      "countriesText": "美国、加拿大、英国、澳大利亚。",
+      "interests": "graziers raw milk cheese recall, 公共议题 / 新闻解释 / 高风险话题, social trend, viral discussion",
+      "spending": "低；更适合信息服务、newsletter、资料库和事实核查，不建议硬带货。",
+      "ageBuckets": {
+        "13-17": 8,
+        "18-24": 30,
+        "25-34": 34,
+        "35-44": 18,
+        "45+": 10
+      },
+      "countries": {
+        "美国": 100,
+        "加拿大": 24,
+        "英国": 20,
+        "澳大利亚": 14
+      },
+      "playbook": {
+        "tiktok": "只做中性解释：发生了什么、哪些说法未证实、下一步看什么。",
+        "instagram": "Carousel 做术语解释、时间线和关键问题。",
+        "x": "严格引用源头，标注未证实内容，不扩散截图流言。",
+        "store": "FAQ、资料库、newsletter；不建议直接带货。"
+      },
+      "score": 6.8
+    },
+    {
+      "id": "phillies",
+      "name": "phillies",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 77,
@@ -350,11 +346,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「congo vs cameroon」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「phillies」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "congo vs cameroon, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "phillies, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -380,20 +376,20 @@
       "score": 6.8
     },
     {
-      "id": "schmitt",
-      "name": "Schmitt",
-      "platforms": "X, Google Trends, Reddit, News",
+      "id": "atlanta-braves",
+      "name": "atlanta braves",
+      "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 74,
       "viral": 7,
       "commerce": 6,
       "longTerm": 6,
-      "source": "https://twitter.com/search?q=Schmitt",
-      "opportunity": "「Schmitt」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "source": "https://trends.google.com/trending/rss?geo=US",
+      "opportunity": "「atlanta braves」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "Schmitt, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "atlanta braves, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
