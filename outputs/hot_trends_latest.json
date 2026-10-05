@@ -1,5 +1,5 @@
 {
-  "reportDate": "2026-10-04",
+  "reportDate": "2026-10-05",
   "status": "云端自动更新完成。采集 10 条公开源候选，生成 Top10。",
   "sources": [
     [
@@ -29,8 +29,86 @@
   ],
   "trends": [
     {
-      "id": "josh-allen",
-      "name": "josh allen",
+      "id": "who-plays-monday-night-football",
+      "name": "who plays monday night football",
+      "platforms": "Google Trends, X, TikTok, Instagram, Sports News",
+      "category": "体育 / 足球 / 赛事热点",
+      "heat": 95,
+      "viral": 9,
+      "commerce": 8,
+      "longTerm": 8,
+      "source": "https://trends.google.com/trending/rss?geo=US",
+      "opportunity": "「who plays monday night football」是体育赛事/球队/球员相关搜索上升，用户核心需求是赛程、结果、首发、伤病、晋级条件和球迷争议；适合做解释卡、赛前预测、赛后评分和观赛/周边承接。",
+      "persona": "体育迷、球队粉丝、轻度赛事观众、体育酒吧人群、球衣和周边消费者。",
+      "age": "16-44 岁，18-34 岁传播最活跃。",
+      "countriesText": "美国、英国、加拿大、墨西哥、巴西、欧洲主要足球市场。",
+      "interests": "who plays monday night football, 体育 / 足球 / 赛事热点, social trend, viral discussion",
+      "spending": "中高；球衣、观赛用品、酒吧消费、体育订阅和城市观赛活动都有转化空间。",
+      "ageBuckets": {
+        "13-17": 8,
+        "18-24": 30,
+        "25-34": 34,
+        "35-44": 18,
+        "45+": 10
+      },
+      "countries": {
+        "美国": 100,
+        "英国": 56,
+        "加拿大": 42,
+        "墨西哥": 40,
+        "巴西": 34,
+        "德国": 28
+      },
+      "playbook": {
+        "tiktok": "做 30-60 秒赛前/赛后拆解，开头直接抛争议问题，结尾引导评论区预测比分。",
+        "instagram": "Carousel 做对阵卡、关键球员、晋级路线和球迷穿搭；Reels 做街访或酒吧反应。",
+        "x": "实时跟进首发、伤停、裁判、采访和球迷情绪，事实与观点分层。",
+        "store": "球衣、围巾、观赛派对用品、体育酒吧地图、赛事旅行清单。"
+      },
+      "score": 8.8
+    },
+    {
+      "id": "jeffrey-archer",
+      "name": "jeffrey archer",
+      "platforms": "Google Trends, TikTok, Instagram, X, YouTube",
+      "category": "娱乐 / 影视音乐 / 粉圈讨论",
+      "heat": 92,
+      "viral": 9,
+      "commerce": 6,
+      "longTerm": 7,
+      "source": "https://trends.google.com/trending/rss?geo=US",
+      "opportunity": "Cher 是经典娱乐人物名搜索上升，用户通常在追最新露面、纪念节点、演出/传记/关系话题或 viral clip；适合做“为什么又上热搜”的时间线、经典作品回顾和粉丝向短内容。",
+      "persona": "娱乐八卦受众、粉圈用户、影视剧观众、音乐用户、穿搭和美妆消费人群。",
+      "age": "16-34 岁传播最活跃。",
+      "countriesText": "美国、英国、加拿大、澳大利亚、菲律宾、巴西。",
+      "interests": "jeffrey archer, 娱乐 / 影视音乐 / 粉圈讨论, social trend, viral discussion",
+      "spending": "中；可承接穿搭、美妆、歌单、周边、会员订阅和社群。",
+      "ageBuckets": {
+        "13-17": 8,
+        "18-24": 30,
+        "25-34": 34,
+        "35-44": 18,
+        "45+": 10
+      },
+      "countries": {
+        "美国": 100,
+        "英国": 48,
+        "加拿大": 36,
+        "澳大利亚": 30,
+        "菲律宾": 26,
+        "巴西": 22
+      },
+      "playbook": {
+        "tiktok": "用 15-30 秒讲清冲突点、名场面或争议，结尾让用户站队。",
+        "instagram": "Carousel 做角色关系图、红黑榜、穿搭同款和剧情时间线。",
+        "x": "跟进实时热梗、粉圈争议和官方物料，注意事实与猜测分层。",
+        "store": "穿搭同款、美妆清单、歌单、周边、剧情复盘专题和 newsletter。"
+      },
+      "score": 8.1
+    },
+    {
+      "id": "s-p-500",
+      "name": "s&p 500",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 99,
@@ -38,11 +116,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「josh allen」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「s&p 500」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "josh allen, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "s&p 500, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -68,8 +146,8 @@
       "score": 7.6
     },
     {
-      "id": "parker-washington",
-      "name": "parker washington",
+      "id": "martinique-vs-el-salvador",
+      "name": "martinique vs el salvador",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 98,
@@ -77,11 +155,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「parker washington」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「martinique vs el salvador」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "parker washington, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "martinique vs el salvador, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -107,86 +185,8 @@
       "score": 7.6
     },
     {
-      "id": "ireland-vs-israel",
-      "name": "ireland vs israel",
-      "platforms": "Google Trends, Reddit, X, News",
-      "category": "综合热点 / 社交讨论 / 内容机会",
-      "heat": 95,
-      "viral": 7,
-      "commerce": 6,
-      "longTerm": 6,
-      "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「ireland vs israel」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
-      "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
-      "age": "18-44 岁为主。",
-      "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "ireland vs israel, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
-      "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
-      "ageBuckets": {
-        "13-17": 8,
-        "18-24": 30,
-        "25-34": 34,
-        "35-44": 18,
-        "45+": 10
-      },
-      "countries": {
-        "美国": 100,
-        "加拿大": 32,
-        "英国": 30,
-        "澳大利亚": 22,
-        "印度": 18,
-        "巴西": 14
-      },
-      "playbook": {
-        "tiktok": "先做 3 秒钩子解释为什么突然火，再给背景、争议点和评论问题。",
-        "instagram": "Carousel 做信息卡、时间线、关键观点和可保存清单。",
-        "x": "跟进源头、事实更新和社区讨论，避免无来源扩散。",
-        "store": "用 newsletter、资料包、垂类清单或工具页承接。"
-      },
-      "score": 7.5
-    },
-    {
-      "id": "najee-harris",
-      "name": "najee harris",
-      "platforms": "Google Trends, Reddit, X, News",
-      "category": "综合热点 / 社交讨论 / 内容机会",
-      "heat": 92,
-      "viral": 7,
-      "commerce": 6,
-      "longTerm": 6,
-      "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「najee harris」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
-      "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
-      "age": "18-44 岁为主。",
-      "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "najee harris, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
-      "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
-      "ageBuckets": {
-        "13-17": 8,
-        "18-24": 30,
-        "25-34": 34,
-        "35-44": 18,
-        "45+": 10
-      },
-      "countries": {
-        "美国": 100,
-        "加拿大": 32,
-        "英国": 30,
-        "澳大利亚": 22,
-        "印度": 18,
-        "巴西": 14
-      },
-      "playbook": {
-        "tiktok": "先做 3 秒钩子解释为什么突然火，再给背景、争议点和评论问题。",
-        "instagram": "Carousel 做信息卡、时间线、关键观点和可保存清单。",
-        "x": "跟进源头、事实更新和社区讨论，避免无来源扩散。",
-        "store": "用 newsletter、资料包、垂类清单或工具页承接。"
-      },
-      "score": 7.4
-    },
-    {
-      "id": "keke-palmer",
-      "name": "keke palmer",
+      "id": "gulf-coast-tropical-storm-forecast",
+      "name": "gulf coast tropical storm forecast",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 89,
@@ -194,11 +194,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「keke palmer」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「gulf coast tropical storm forecast」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "keke palmer, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "gulf coast tropical storm forecast, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -224,8 +224,8 @@
       "score": 7.3
     },
     {
-      "id": "dalton-kincaid",
-      "name": "dalton kincaid",
+      "id": "tank-bigsby",
+      "name": "tank bigsby",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 86,
@@ -233,11 +233,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「dalton kincaid」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「tank bigsby」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "dalton kincaid, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "tank bigsby, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -263,8 +263,8 @@
       "score": 7.2
     },
     {
-      "id": "damar-hamlin",
-      "name": "damar hamlin",
+      "id": "jessica-biel",
+      "name": "jessica biel",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 83,
@@ -272,11 +272,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「damar hamlin」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「jessica biel」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "damar hamlin, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "jessica biel, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -302,8 +302,8 @@
       "score": 7.1
     },
     {
-      "id": "portugal-vs-norway",
-      "name": "portugal vs norway",
+      "id": "united-states-department-of-justice",
+      "name": "united states department of justice",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 80,
@@ -311,11 +311,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「portugal vs norway」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「united states department of justice」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "portugal vs norway, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "united states department of justice, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -341,8 +341,8 @@
       "score": 7
     },
     {
-      "id": "portugal-noruega",
-      "name": "portugal - noruega",
+      "id": "tbs",
+      "name": "tbs",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 77,
@@ -350,11 +350,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「portugal - noruega」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「tbs」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "portugal - noruega, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "tbs, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -380,8 +380,8 @@
       "score": 6.8
     },
     {
-      "id": "greece-vs-germany",
-      "name": "greece vs germany",
+      "id": "central-park-cyclist-dog-collision",
+      "name": "central park cyclist dog collision",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 74,
@@ -389,11 +389,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「greece vs germany」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「central park cyclist dog collision」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "greece vs germany, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "central park cyclist dog collision, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
