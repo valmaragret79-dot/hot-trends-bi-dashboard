@@ -1,5 +1,5 @@
 {
-  "reportDate": "2026-10-12",
+  "reportDate": "2026-10-13",
   "status": "云端自动更新完成。采集 10 条公开源候选，生成 Top10。",
   "sources": [
     [
@@ -29,21 +29,21 @@
   ],
   "trends": [
     {
-      "id": "uconn-women-apos-s-basketball",
-      "name": "uconn women&apos;s basketball",
-      "platforms": "Google Trends, X, TikTok, Instagram, YouTube",
-      "category": "NBA / 交易 / 球迷讨论",
-      "heat": 83,
+      "id": "champions-league-games",
+      "name": "champions league games",
+      "platforms": "Google Trends, X, TikTok, Instagram, Sports News",
+      "category": "体育 / 足球 / 赛事热点",
+      "heat": 80,
       "viral": 9,
-      "commerce": 9,
+      "commerce": 8,
       "longTerm": 8,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「uconn women&apos;s basketball」是体育赛事/球队/球员相关搜索上升，用户核心需求是赛程、结果、首发、伤病、晋级条件和球迷争议；适合做解释卡、赛前预测、赛后评分和观赛/周边承接。",
-      "persona": "NBA 球迷、球队粉丝、篮球播客受众、球鞋球衣和收藏卡消费者。",
-      "age": "16-39 岁为主。",
-      "countriesText": "美国、加拿大、菲律宾、英国、澳大利亚、日本。",
-      "interests": "uconn women&apos;s basketball, NBA / 交易 / 球迷讨论, social trend, viral discussion",
-      "spending": "高；球衣、球鞋、收藏卡、会员订阅和球星周边转化都强。",
+      "opportunity": "「champions league games」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "persona": "体育迷、球队粉丝、轻度赛事观众、体育酒吧人群、球衣和周边消费者。",
+      "age": "16-44 岁，18-34 岁传播最活跃。",
+      "countriesText": "美国、英国、加拿大、墨西哥、巴西、欧洲主要足球市场。",
+      "interests": "champions league games, 体育 / 足球 / 赛事热点, social trend, viral discussion",
+      "spending": "中高；球衣、观赛用品、酒吧消费、体育订阅和城市观赛活动都有转化空间。",
       "ageBuckets": {
         "13-17": 8,
         "18-24": 30,
@@ -53,23 +53,23 @@
       },
       "countries": {
         "美国": 100,
-        "加拿大": 58,
-        "菲律宾": 54,
-        "英国": 36,
-        "澳大利亚": 32,
-        "日本": 26
+        "英国": 56,
+        "加拿大": 42,
+        "墨西哥": 40,
+        "巴西": 34,
+        "德国": 28
       },
       "playbook": {
-        "tiktok": "把消息分成已确认、可靠记者、球迷流言三层，再做阵容模拟。",
-        "instagram": "Carousel 做交易评级、薪资空间和球员适配度；Stories 做投票。",
-        "x": "只引用源头记者和官方账号，实时更新签约、筹码和球迷情绪。",
-        "store": "球星球衣、球鞋、收藏卡、球队海报、交易追踪 newsletter。"
+        "tiktok": "做 30-60 秒赛前/赛后拆解，开头直接抛争议问题，结尾引导评论区预测比分。",
+        "instagram": "Carousel 做对阵卡、关键球员、晋级路线和球迷穿搭；Reels 做街访或酒吧反应。",
+        "x": "实时跟进首发、伤停、裁判、采访和球迷情绪，事实与观点分层。",
+        "store": "球衣、围巾、观赛派对用品、体育酒吧地图、赛事旅行清单。"
       },
-      "score": 8.6
+      "score": 8.3
     },
     {
-      "id": "sal-frelick",
-      "name": "sal frelick",
+      "id": "rob-lowe",
+      "name": "rob lowe",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 99,
@@ -77,11 +77,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「sal frelick」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「rob lowe」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "sal frelick, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "rob lowe, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -107,8 +107,8 @@
       "score": 7.6
     },
     {
-      "id": "amelia-earhart",
-      "name": "amelia earhart",
+      "id": "tanner-hudson",
+      "name": "tanner hudson",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 98,
@@ -116,11 +116,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「amelia earhart」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「tanner hudson」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "amelia earhart, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "tanner hudson, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -146,8 +146,8 @@
       "score": 7.6
     },
     {
-      "id": "is-dj-moore-playing-week-5",
-      "name": "is dj moore playing week 5",
+      "id": "payton-pritchard",
+      "name": "payton pritchard",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 95,
@@ -155,11 +155,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「is dj moore playing week 5」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「payton pritchard」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "is dj moore playing week 5, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "payton pritchard, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -185,8 +185,8 @@
       "score": 7.5
     },
     {
-      "id": "tommy-edman",
-      "name": "tommy edman",
+      "id": "huevo",
+      "name": "huevo",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 92,
@@ -194,11 +194,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「tommy edman」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「huevo」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "tommy edman, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "huevo, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -224,8 +224,8 @@
       "score": 7.4
     },
     {
-      "id": "kratom",
-      "name": "kratom",
+      "id": "winter-weather-advisory",
+      "name": "winter weather advisory",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 89,
@@ -233,11 +233,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「kratom」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「winter weather advisory」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "kratom, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "winter weather advisory, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -263,8 +263,8 @@
       "score": 7.3
     },
     {
-      "id": "ryan-johnson",
-      "name": "ryan johnson",
+      "id": "jo-o-cancelo",
+      "name": "joão cancelo",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 86,
@@ -272,11 +272,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「ryan johnson」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「joão cancelo」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "ryan johnson, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "joão cancelo, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -302,20 +302,20 @@
       "score": 7.2
     },
     {
-      "id": "amal-clooney-gold-dress-the-albies",
-      "name": "amal clooney gold dress the albies",
+      "id": "new-warbond-helldivers",
+      "name": "new warbond helldivers",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
-      "heat": 80,
+      "heat": 83,
       "viral": 7,
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「amal clooney gold dress the albies」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「new warbond helldivers」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "amal clooney gold dress the albies, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "new warbond helldivers, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -338,11 +338,11 @@
         "x": "跟进源头、事实更新和社区讨论，避免无来源扩散。",
         "store": "用 newsletter、资料包、垂类清单或工具页承接。"
       },
-      "score": 7
+      "score": 7.1
     },
     {
-      "id": "dow-jones-industrial-average",
-      "name": "dow jones industrial average",
+      "id": "johnny-cardoso",
+      "name": "johnny cardoso",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 77,
@@ -350,11 +350,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「dow jones industrial average」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「johnny cardoso」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "dow jones industrial average, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "johnny cardoso, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -380,8 +380,8 @@
       "score": 6.8
     },
     {
-      "id": "levante-ud-vs-sevilla-fc-standings",
-      "name": "levante ud vs sevilla fc standings",
+      "id": "great-wolf-lodge",
+      "name": "great wolf lodge",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 74,
@@ -389,11 +389,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「levante ud vs sevilla fc standings」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「great wolf lodge」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "levante ud vs sevilla fc standings, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "great wolf lodge, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
