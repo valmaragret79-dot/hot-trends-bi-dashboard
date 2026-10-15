@@ -1,5 +1,5 @@
 {
-  "reportDate": "2026-10-14",
+  "reportDate": "2026-10-15",
   "status": "云端自动更新完成。采集 10 条公开源候选，生成 Top10。",
   "sources": [
     [
@@ -29,8 +29,8 @@
   ],
   "trends": [
     {
-      "id": "aston-villa",
-      "name": "aston villa",
+      "id": "wind-advisory",
+      "name": "wind advisory",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 99,
@@ -38,11 +38,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「aston villa」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「wind advisory」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "aston villa, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "wind advisory, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -68,8 +68,8 @@
       "score": 7.6
     },
     {
-      "id": "aston-villa-fenerbah-e",
-      "name": "aston villa - fenerbahçe",
+      "id": "celta-vs-juventus",
+      "name": "celta vs juventus",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 98,
@@ -77,11 +77,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「aston villa - fenerbahçe」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「celta vs juventus」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "aston villa - fenerbahçe, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "celta vs juventus, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -107,8 +107,8 @@
       "score": 7.6
     },
     {
-      "id": "norwich-city-vs-southampton",
-      "name": "norwich city vs southampton",
+      "id": "chandler-simpson",
+      "name": "chandler simpson",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 95,
@@ -116,11 +116,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「norwich city vs southampton」是本地地名或社区事件搜索上升，必须先核验事件源，再做地点、影响、时间线和资源清单；适合本地资讯号，不适合硬带货。",
+      "opportunity": "「chandler simpson」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "norwich city vs southampton, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "chandler simpson, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -146,8 +146,8 @@
       "score": 7.5
     },
     {
-      "id": "denise-richards",
-      "name": "denise richards",
+      "id": "marseille-vs-olympiacos",
+      "name": "marseille vs olympiacos",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 92,
@@ -155,11 +155,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「denise richards」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「marseille vs olympiacos」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "denise richards, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "marseille vs olympiacos, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -185,8 +185,8 @@
       "score": 7.4
     },
     {
-      "id": "miniseries",
-      "name": "miniseries",
+      "id": "bournemouth-vs-sturm-graz",
+      "name": "bournemouth vs sturm graz",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 89,
@@ -194,11 +194,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「miniseries」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「bournemouth vs sturm graz」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "miniseries, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "bournemouth vs sturm graz, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -224,8 +224,8 @@
       "score": 7.3
     },
     {
-      "id": "betis-vs-porto",
-      "name": "betis vs porto",
+      "id": "benfica-vs-celtic",
+      "name": "benfica vs celtic",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 86,
@@ -233,11 +233,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「betis vs porto」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「benfica vs celtic」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "betis vs porto, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "benfica vs celtic, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -263,8 +263,8 @@
       "score": 7.2
     },
     {
-      "id": "aston-villa-vs-fenerbah-e",
-      "name": "aston villa vs fenerbahçe",
+      "id": "guardians-score",
+      "name": "guardians score",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 83,
@@ -272,11 +272,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「aston villa vs fenerbahçe」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「guardians score」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "aston villa vs fenerbahçe, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "guardians score, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -302,8 +302,8 @@
       "score": 7.1
     },
     {
-      "id": "dengue",
-      "name": "dengue",
+      "id": "shane-drohan",
+      "name": "shane drohan",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 80,
@@ -311,11 +311,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「dengue」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「shane drohan」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "dengue, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "shane drohan, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -341,8 +341,8 @@
       "score": 7
     },
     {
-      "id": "bod-glimt-vs-dortmund",
-      "name": "bodø/glimt vs dortmund",
+      "id": "politics",
+      "name": "politics",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 77,
@@ -350,11 +350,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「bodø/glimt vs dortmund」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「politics」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "bodø/glimt vs dortmund, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "politics, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -380,8 +380,8 @@
       "score": 6.8
     },
     {
-      "id": "candace-cameron-bure-full-house-reunion",
-      "name": "candace cameron bure full house reunion",
+      "id": "indians",
+      "name": "indians",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 74,
@@ -389,11 +389,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「candace cameron bure full house reunion」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「indians」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "candace cameron bure full house reunion, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "indians, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
