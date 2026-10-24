@@ -1,5 +1,5 @@
 {
-  "reportDate": "2026-10-23",
+  "reportDate": "2026-10-24",
   "status": "云端自动更新完成。采集 10 条公开源候选，生成 Top10。",
   "sources": [
     [
@@ -17,7 +17,7 @@
     [
       "GDELT US News",
       "失败",
-      "HTTP 429",
+      "fetch failed",
       "https://api.gdeltproject.org/api/v2/doc/doc?query=United%20States&mode=ArtList&format=json&maxrecords=50&sort=HybridRel"
     ],
     [
@@ -29,21 +29,21 @@
   ],
   "trends": [
     {
-      "id": "travel",
-      "name": "travel",
-      "platforms": "Google Trends, TikTok, Instagram, Pinterest",
-      "category": "旅行 / 城市生活 / 本地攻略",
-      "heat": 95,
-      "viral": 8,
+      "id": "indiana-hoosiers-football-vs-michigan-wolverines-football-match-",
+      "name": "indiana hoosiers football vs michigan wolverines football match player stats",
+      "platforms": "Google Trends, X, TikTok, Instagram, Sports News",
+      "category": "体育 / 足球 / 赛事热点",
+      "heat": 77,
+      "viral": 9,
       "commerce": 8,
       "longTerm": 8,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「travel」是本地地名或社区事件搜索上升，必须先核验事件源，再做地点、影响、时间线和资源清单；适合本地资讯号，不适合硬带货。",
-      "persona": "旅行计划用户、城市生活方式受众、本地活动用户、酒店/门票/餐厅消费人群。",
-      "age": "18-44 岁为主。",
-      "countriesText": "美国、英国、加拿大、西班牙、法国、澳大利亚。",
-      "interests": "travel, 旅行 / 城市生活 / 本地攻略, social trend, viral discussion",
-      "spending": "高；酒店、门票、餐厅、交通、旅行用品和城市地图都有明确转化。",
+      "opportunity": "「indiana hoosiers football vs michigan wolverines football match player stats」是体育赛事/球队/球员相关搜索上升，用户核心需求是赛程、结果、首发、伤病、晋级条件和球迷争议；适合做解释卡、赛前预测、赛后评分和观赛/周边承接。",
+      "persona": "体育迷、球队粉丝、轻度赛事观众、体育酒吧人群、球衣和周边消费者。",
+      "age": "16-44 岁，18-34 岁传播最活跃。",
+      "countriesText": "美国、英国、加拿大、墨西哥、巴西、欧洲主要足球市场。",
+      "interests": "indiana hoosiers football vs michigan wolverines football match player stats, 体育 / 足球 / 赛事热点, social trend, viral discussion",
+      "spending": "中高；球衣、观赛用品、酒吧消费、体育订阅和城市观赛活动都有转化空间。",
       "ageBuckets": {
         "13-17": 8,
         "18-24": 30,
@@ -52,24 +52,24 @@
         "45+": 10
       },
       "countries": {
-        "美国": 92,
-        "英国": 48,
-        "加拿大": 36,
-        "西班牙": 34,
-        "法国": 32,
-        "澳大利亚": 28
+        "美国": 100,
+        "英国": 56,
+        "加拿大": 42,
+        "墨西哥": 40,
+        "巴西": 34,
+        "德国": 28
       },
       "playbook": {
-        "tiktok": "一条热点拆成景点、餐厅、路线、预算、避坑 5 条短视频。",
-        "instagram": "Carousel 做地图和清单；Reels 做一天行程和 before/after。",
-        "x": "跟进航班、天气、活动和本地突发提醒。",
-        "store": "城市地图、行程 PDF、酒店/门票/餐厅联盟链接、旅行用品专题页。"
+        "tiktok": "做 30-60 秒赛前/赛后拆解，开头直接抛争议问题，结尾引导评论区预测比分。",
+        "instagram": "Carousel 做对阵卡、关键球员、晋级路线和球迷穿搭；Reels 做街访或酒吧反应。",
+        "x": "实时跟进首发、伤停、裁判、采访和球迷情绪，事实与观点分层。",
+        "store": "球衣、围巾、观赛派对用品、体育酒吧地图、赛事旅行清单。"
       },
-      "score": 8.5
+      "score": 8.1
     },
     {
-      "id": "ipswich-town-vs-nottm-forest",
-      "name": "ipswich town vs nottm forest",
+      "id": "malachi-toney",
+      "name": "malachi toney",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 99,
@@ -77,11 +77,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「ipswich town vs nottm forest」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「malachi toney」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "ipswich town vs nottm forest, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "malachi toney, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -107,8 +107,8 @@
       "score": 7.6
     },
     {
-      "id": "vfb-stuttgart-vs-m-nchengladbach",
-      "name": "vfb stuttgart vs mönchengladbach",
+      "id": "jeff-gordon",
+      "name": "jeff gordon",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 98,
@@ -116,11 +116,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「vfb stuttgart vs mönchengladbach」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「jeff gordon」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "vfb stuttgart vs mönchengladbach, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "jeff gordon, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -146,8 +146,47 @@
       "score": 7.6
     },
     {
-      "id": "iphone-duo-internal-display-break",
-      "name": "iphone duo internal display break",
+      "id": "dortmund",
+      "name": "dortmund",
+      "platforms": "Google Trends, Reddit, X, News",
+      "category": "综合热点 / 社交讨论 / 内容机会",
+      "heat": 95,
+      "viral": 7,
+      "commerce": 6,
+      "longTerm": 6,
+      "source": "https://trends.google.com/trending/rss?geo=US",
+      "opportunity": "「dortmund」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
+      "age": "18-44 岁为主。",
+      "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
+      "interests": "dortmund, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
+      "ageBuckets": {
+        "13-17": 8,
+        "18-24": 30,
+        "25-34": 34,
+        "35-44": 18,
+        "45+": 10
+      },
+      "countries": {
+        "美国": 100,
+        "加拿大": 32,
+        "英国": 30,
+        "澳大利亚": 22,
+        "印度": 18,
+        "巴西": 14
+      },
+      "playbook": {
+        "tiktok": "先做 3 秒钩子解释为什么突然火，再给背景、争议点和评论问题。",
+        "instagram": "Carousel 做信息卡、时间线、关键观点和可保存清单。",
+        "x": "跟进源头、事实更新和社区讨论，避免无来源扩散。",
+        "store": "用 newsletter、资料包、垂类清单或工具页承接。"
+      },
+      "score": 7.5
+    },
+    {
+      "id": "steve-sarkisian",
+      "name": "steve sarkisian",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 92,
@@ -155,11 +194,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「iphone duo internal display break」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「steve sarkisian」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "iphone duo internal display break, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "steve sarkisian, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -185,8 +224,8 @@
       "score": 7.4
     },
     {
-      "id": "dale-brown",
-      "name": "dale brown",
+      "id": "north-dakota-vs-south-dakota",
+      "name": "north dakota vs south dakota",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 89,
@@ -194,11 +233,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「dale brown」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「north dakota vs south dakota」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "dale brown, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "north dakota vs south dakota, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -224,8 +263,8 @@
       "score": 7.3
     },
     {
-      "id": "tavius-robinson",
-      "name": "tavius robinson",
+      "id": "scratchcard",
+      "name": "scratchcard",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 86,
@@ -233,11 +272,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「tavius robinson」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「scratchcard」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "tavius robinson, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "scratchcard, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -263,8 +302,8 @@
       "score": 7.2
     },
     {
-      "id": "charmed-by-a-southern-monster",
-      "name": "charmed by a southern monster",
+      "id": "john-james",
+      "name": "john james",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 83,
@@ -272,11 +311,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「charmed by a southern monster」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「john james」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "charmed by a southern monster, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "john james, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -302,8 +341,8 @@
       "score": 7.1
     },
     {
-      "id": "camp-lejeune",
-      "name": "camp lejeune",
+      "id": "trey-apos-dez-green",
+      "name": "trey&apos;dez green",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 80,
@@ -311,11 +350,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「camp lejeune」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「trey&apos;dez green」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "camp lejeune, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "trey&apos;dez green, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -341,47 +380,8 @@
       "score": 7
     },
     {
-      "id": "flavio-cobolli",
-      "name": "flavio cobolli",
-      "platforms": "Google Trends, Reddit, X, News",
-      "category": "综合热点 / 社交讨论 / 内容机会",
-      "heat": 77,
-      "viral": 7,
-      "commerce": 6,
-      "longTerm": 6,
-      "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「flavio cobolli」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
-      "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
-      "age": "18-44 岁为主。",
-      "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "flavio cobolli, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
-      "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
-      "ageBuckets": {
-        "13-17": 8,
-        "18-24": 30,
-        "25-34": 34,
-        "35-44": 18,
-        "45+": 10
-      },
-      "countries": {
-        "美国": 100,
-        "加拿大": 32,
-        "英国": 30,
-        "澳大利亚": 22,
-        "印度": 18,
-        "巴西": 14
-      },
-      "playbook": {
-        "tiktok": "先做 3 秒钩子解释为什么突然火，再给背景、争议点和评论问题。",
-        "instagram": "Carousel 做信息卡、时间线、关键观点和可保存清单。",
-        "x": "跟进源头、事实更新和社区讨论，避免无来源扩散。",
-        "store": "用 newsletter、资料包、垂类清单或工具页承接。"
-      },
-      "score": 6.8
-    },
-    {
-      "id": "hillsborough-county-sheriff-apos-s-office",
-      "name": "hillsborough county sheriff&apos;s office",
+      "id": "east-tn-st-vs-vmi",
+      "name": "east tn st vs vmi",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 74,
@@ -389,11 +389,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「hillsborough county sheriff&apos;s office」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「east tn st vs vmi」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "hillsborough county sheriff&apos;s office, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "east tn st vs vmi, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
