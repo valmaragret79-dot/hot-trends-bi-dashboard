@@ -1,5 +1,5 @@
 {
-  "reportDate": "2026-11-16",
+  "reportDate": "2026-11-17",
   "status": "云端自动更新完成。采集 10 条公开源候选，生成 Top10。",
   "sources": [
     [
@@ -17,7 +17,7 @@
     [
       "GDELT US News",
       "失败",
-      "This operation was aborted",
+      "fetch failed",
       "https://api.gdeltproject.org/api/v2/doc/doc?query=United%20States&mode=ArtList&format=json&maxrecords=50&sort=HybridRel"
     ],
     [
@@ -29,21 +29,21 @@
   ],
   "trends": [
     {
-      "id": "magic-vs-celtics",
-      "name": "magic vs celtics",
-      "platforms": "Google Trends, X, TikTok, Instagram, YouTube",
-      "category": "NBA / 交易 / 球迷讨论",
-      "heat": 92,
+      "id": "chile-vs-colombia",
+      "name": "chile vs colombia",
+      "platforms": "Google Trends, X, TikTok, Instagram, Sports News",
+      "category": "体育 / 足球 / 赛事热点",
+      "heat": 86,
       "viral": 9,
-      "commerce": 9,
+      "commerce": 8,
       "longTerm": 8,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「magic vs celtics」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
-      "persona": "NBA 球迷、球队粉丝、篮球播客受众、球鞋球衣和收藏卡消费者。",
-      "age": "16-39 岁为主。",
-      "countriesText": "美国、加拿大、菲律宾、英国、澳大利亚、日本。",
-      "interests": "magic vs celtics, NBA / 交易 / 球迷讨论, social trend, viral discussion",
-      "spending": "高；球衣、球鞋、收藏卡、会员订阅和球星周边转化都强。",
+      "opportunity": "用户在搜索哥伦比亚是否还留在世界杯赛程里，说明赛果/晋级形势没有被普通观众理解清楚；适合做“哥伦比亚还在吗、下一场是谁、晋级条件是什么”的解释卡和短视频。",
+      "persona": "体育迷、球队粉丝、轻度赛事观众、体育酒吧人群、球衣和周边消费者。",
+      "age": "16-44 岁，18-34 岁传播最活跃。",
+      "countriesText": "美国、英国、加拿大、墨西哥、巴西、欧洲主要足球市场。",
+      "interests": "chile vs colombia, 体育 / 足球 / 赛事热点, social trend, viral discussion",
+      "spending": "中高；球衣、观赛用品、酒吧消费、体育订阅和城市观赛活动都有转化空间。",
       "ageBuckets": {
         "13-17": 8,
         "18-24": 30,
@@ -53,23 +53,62 @@
       },
       "countries": {
         "美国": 100,
-        "加拿大": 58,
-        "菲律宾": 54,
-        "英国": 36,
-        "澳大利亚": 32,
-        "日本": 26
+        "英国": 56,
+        "加拿大": 42,
+        "墨西哥": 40,
+        "巴西": 34,
+        "德国": 28
       },
       "playbook": {
-        "tiktok": "把消息分成已确认、可靠记者、球迷流言三层，再做阵容模拟。",
-        "instagram": "Carousel 做交易评级、薪资空间和球员适配度；Stories 做投票。",
-        "x": "只引用源头记者和官方账号，实时更新签约、筹码和球迷情绪。",
-        "store": "球星球衣、球鞋、收藏卡、球队海报、交易追踪 newsletter。"
+        "tiktok": "做 30-60 秒赛前/赛后拆解，开头直接抛争议问题，结尾引导评论区预测比分。",
+        "instagram": "Carousel 做对阵卡、关键球员、晋级路线和球迷穿搭；Reels 做街访或酒吧反应。",
+        "x": "实时跟进首发、伤停、裁判、采访和球迷情绪，事实与观点分层。",
+        "store": "球衣、围巾、观赛派对用品、体育酒吧地图、赛事旅行清单。"
       },
-      "score": 8.9
+      "score": 8.5
     },
     {
-      "id": "bulls-vs-cavaliers",
-      "name": "bulls vs cavaliers",
+      "id": "chile-colombia",
+      "name": "chile - colombia",
+      "platforms": "Google Trends, X, TikTok, Instagram, Sports News",
+      "category": "体育 / 足球 / 赛事热点",
+      "heat": 83,
+      "viral": 9,
+      "commerce": 8,
+      "longTerm": 8,
+      "source": "https://trends.google.com/trending/rss?geo=US",
+      "opportunity": "用户在搜索哥伦比亚是否还留在世界杯赛程里，说明赛果/晋级形势没有被普通观众理解清楚；适合做“哥伦比亚还在吗、下一场是谁、晋级条件是什么”的解释卡和短视频。",
+      "persona": "体育迷、球队粉丝、轻度赛事观众、体育酒吧人群、球衣和周边消费者。",
+      "age": "16-44 岁，18-34 岁传播最活跃。",
+      "countriesText": "美国、英国、加拿大、墨西哥、巴西、欧洲主要足球市场。",
+      "interests": "chile - colombia, 体育 / 足球 / 赛事热点, social trend, viral discussion",
+      "spending": "中高；球衣、观赛用品、酒吧消费、体育订阅和城市观赛活动都有转化空间。",
+      "ageBuckets": {
+        "13-17": 8,
+        "18-24": 30,
+        "25-34": 34,
+        "35-44": 18,
+        "45+": 10
+      },
+      "countries": {
+        "美国": 100,
+        "英国": 56,
+        "加拿大": 42,
+        "墨西哥": 40,
+        "巴西": 34,
+        "德国": 28
+      },
+      "playbook": {
+        "tiktok": "做 30-60 秒赛前/赛后拆解，开头直接抛争议问题，结尾引导评论区预测比分。",
+        "instagram": "Carousel 做对阵卡、关键球员、晋级路线和球迷穿搭；Reels 做街访或酒吧反应。",
+        "x": "实时跟进首发、伤停、裁判、采访和球迷情绪，事实与观点分层。",
+        "store": "球衣、围巾、观赛派对用品、体育酒吧地图、赛事旅行清单。"
+      },
+      "score": 8.4
+    },
+    {
+      "id": "dow-jones-industrial-average",
+      "name": "dow jones industrial average",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 99,
@@ -77,11 +116,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「bulls vs cavaliers」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「dow jones industrial average」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "bulls vs cavaliers, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "dow jones industrial average, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -107,8 +146,8 @@
       "score": 7.6
     },
     {
-      "id": "grizzlies-vs-wizards",
-      "name": "grizzlies vs wizards",
+      "id": "anne-hathaway",
+      "name": "anne hathaway",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 98,
@@ -116,11 +155,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「grizzlies vs wizards」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「anne hathaway」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "grizzlies vs wizards, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "anne hathaway, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -146,8 +185,8 @@
       "score": 7.6
     },
     {
-      "id": "alcorn-state-vs-maryland",
-      "name": "alcorn state vs maryland",
+      "id": "aircraft",
+      "name": "aircraft",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 95,
@@ -155,11 +194,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「alcorn state vs maryland」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「aircraft」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "alcorn state vs maryland, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "aircraft, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -185,8 +224,47 @@
       "score": 7.5
     },
     {
-      "id": "daniel-jones-colts-starting-quarterback",
-      "name": "daniel jones colts starting quarterback",
+      "id": "league-of-legends",
+      "name": "league of legends",
+      "platforms": "Google Trends, Reddit, X, News",
+      "category": "综合热点 / 社交讨论 / 内容机会",
+      "heat": 92,
+      "viral": 7,
+      "commerce": 6,
+      "longTerm": 6,
+      "source": "https://trends.google.com/trending/rss?geo=US",
+      "opportunity": "「league of legends」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
+      "age": "18-44 岁为主。",
+      "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
+      "interests": "league of legends, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
+      "ageBuckets": {
+        "13-17": 8,
+        "18-24": 30,
+        "25-34": 34,
+        "35-44": 18,
+        "45+": 10
+      },
+      "countries": {
+        "美国": 100,
+        "加拿大": 32,
+        "英国": 30,
+        "澳大利亚": 22,
+        "印度": 18,
+        "巴西": 14
+      },
+      "playbook": {
+        "tiktok": "先做 3 秒钩子解释为什么突然火，再给背景、争议点和评论问题。",
+        "instagram": "Carousel 做信息卡、时间线、关键观点和可保存清单。",
+        "x": "跟进源头、事实更新和社区讨论，避免无来源扩散。",
+        "store": "用 newsletter、资料包、垂类清单或工具页承接。"
+      },
+      "score": 7.4
+    },
+    {
+      "id": "argentina-costa-rica",
+      "name": "argentina - costa rica",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 89,
@@ -194,11 +272,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「daniel jones colts starting quarterback」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「argentina - costa rica」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "daniel jones colts starting quarterback, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "argentina - costa rica, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -224,86 +302,8 @@
       "score": 7.3
     },
     {
-      "id": "chargers-record",
-      "name": "chargers record",
-      "platforms": "Google Trends, Reddit, X, News",
-      "category": "综合热点 / 社交讨论 / 内容机会",
-      "heat": 86,
-      "viral": 7,
-      "commerce": 6,
-      "longTerm": 6,
-      "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「chargers record」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
-      "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
-      "age": "18-44 岁为主。",
-      "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "chargers record, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
-      "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
-      "ageBuckets": {
-        "13-17": 8,
-        "18-24": 30,
-        "25-34": 34,
-        "35-44": 18,
-        "45+": 10
-      },
-      "countries": {
-        "美国": 100,
-        "加拿大": 32,
-        "英国": 30,
-        "澳大利亚": 22,
-        "印度": 18,
-        "巴西": 14
-      },
-      "playbook": {
-        "tiktok": "先做 3 秒钩子解释为什么突然火，再给背景、争议点和评论问题。",
-        "instagram": "Carousel 做信息卡、时间线、关键观点和可保存清单。",
-        "x": "跟进源头、事实更新和社区讨论，避免无来源扩散。",
-        "store": "用 newsletter、资料包、垂类清单或工具页承接。"
-      },
-      "score": 7.2
-    },
-    {
-      "id": "tre-harris",
-      "name": "tre harris",
-      "platforms": "Google Trends, Reddit, X, News",
-      "category": "综合热点 / 社交讨论 / 内容机会",
-      "heat": 83,
-      "viral": 7,
-      "commerce": 6,
-      "longTerm": 6,
-      "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「tre harris」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
-      "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
-      "age": "18-44 岁为主。",
-      "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "tre harris, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
-      "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
-      "ageBuckets": {
-        "13-17": 8,
-        "18-24": 30,
-        "25-34": 34,
-        "35-44": 18,
-        "45+": 10
-      },
-      "countries": {
-        "美国": 100,
-        "加拿大": 32,
-        "英国": 30,
-        "澳大利亚": 22,
-        "印度": 18,
-        "巴西": 14
-      },
-      "playbook": {
-        "tiktok": "先做 3 秒钩子解释为什么突然火，再给背景、争议点和评论问题。",
-        "instagram": "Carousel 做信息卡、时间线、关键观点和可保存清单。",
-        "x": "跟进源头、事实更新和社区讨论，避免无来源扩散。",
-        "store": "用 newsletter、资料包、垂类清单或工具页承接。"
-      },
-      "score": 7.1
-    },
-    {
-      "id": "united-news",
-      "name": "united news",
+      "id": "eastern-mi-vs-wmu",
+      "name": "eastern mi vs wmu",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 80,
@@ -311,11 +311,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「united news」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「eastern mi vs wmu」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "united news, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "eastern mi vs wmu, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -341,8 +341,8 @@
       "score": 7
     },
     {
-      "id": "tyrus-wheat",
-      "name": "tyrus wheat",
+      "id": "harvey-jones",
+      "name": "harvey jones",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 77,
@@ -350,11 +350,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「tyrus wheat」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「harvey jones」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "tyrus wheat, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "harvey jones, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -380,8 +380,8 @@
       "score": 6.8
     },
     {
-      "id": "pickleball",
-      "name": "pickleball",
+      "id": "oklahoma-city-thunder",
+      "name": "oklahoma city thunder",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 74,
@@ -389,11 +389,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「pickleball」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「oklahoma city thunder」是本地地名或社区事件搜索上升，必须先核验事件源，再做地点、影响、时间线和资源清单；适合本地资讯号，不适合硬带货。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "pickleball, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "oklahoma city thunder, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
