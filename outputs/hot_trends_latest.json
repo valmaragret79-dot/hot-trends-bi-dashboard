@@ -1,5 +1,5 @@
 {
-  "reportDate": "2026-11-23",
+  "reportDate": "2026-11-24",
   "status": "云端自动更新完成。采集 10 条公开源候选，生成 Top10。",
   "sources": [
     [
@@ -17,7 +17,7 @@
     [
       "GDELT US News",
       "失败",
-      "HTTP 429",
+      "This operation was aborted",
       "https://api.gdeltproject.org/api/v2/doc/doc?query=United%20States&mode=ArtList&format=json&maxrecords=50&sort=HybridRel"
     ],
     [
@@ -29,21 +29,21 @@
   ],
   "trends": [
     {
-      "id": "nfl-draft-2027",
-      "name": "nfl draft 2027",
+      "id": "vanderbilt-basketball",
+      "name": "vanderbilt basketball",
       "platforms": "Google Trends, X, TikTok, Instagram, YouTube",
-      "category": "NFL / 球队动态 / 球迷讨论",
-      "heat": 83,
-      "viral": 8,
-      "commerce": 8,
+      "category": "NBA / 交易 / 球迷讨论",
+      "heat": 74,
+      "viral": 9,
+      "commerce": 9,
       "longTerm": 8,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「nfl draft 2027」是体育赛事/球队/球员相关搜索上升，用户核心需求是赛程、结果、首发、伤病、晋级条件和球迷争议；适合做解释卡、赛前预测、赛后评分和观赛/周边承接。",
-      "persona": "NFL 球迷、球队粉丝、Fantasy Football 玩家、球衣和周边消费者。",
-      "age": "18-49 岁为主。",
-      "countriesText": "美国、加拿大、英国、墨西哥、德国、澳大利亚。",
-      "interests": "nfl draft 2027, NFL / 球队动态 / 球迷讨论, social trend, viral discussion",
-      "spending": "高；球衣、帽子、Fantasy 工具、会员订阅、比赛门票和观赛用品可承接。",
+      "opportunity": "「vanderbilt basketball」是体育赛事/球队/球员相关搜索上升，用户核心需求是赛程、结果、首发、伤病、晋级条件和球迷争议；适合做解释卡、赛前预测、赛后评分和观赛/周边承接。",
+      "persona": "NBA 球迷、球队粉丝、篮球播客受众、球鞋球衣和收藏卡消费者。",
+      "age": "16-39 岁为主。",
+      "countriesText": "美国、加拿大、菲律宾、英国、澳大利亚、日本。",
+      "interests": "vanderbilt basketball, NBA / 交易 / 球迷讨论, social trend, viral discussion",
+      "spending": "高；球衣、球鞋、收藏卡、会员订阅和球星周边转化都强。",
       "ageBuckets": {
         "13-17": 8,
         "18-24": 30,
@@ -53,23 +53,23 @@
       },
       "countries": {
         "美国": 100,
-        "加拿大": 38,
-        "英国": 26,
-        "墨西哥": 22,
-        "德国": 18,
-        "澳大利亚": 14
+        "加拿大": 58,
+        "菲律宾": 54,
+        "英国": 36,
+        "澳大利亚": 32,
+        "日本": 26
       },
       "playbook": {
-        "tiktok": "做训练营/交易/伤病/赛程的 30 秒解释，结尾问球迷新赛季预期。",
-        "instagram": "Carousel 做阵容深度图、赛程、球员变动和球迷穿搭。",
-        "x": "实时跟进记者源、球队公告、伤病和球迷情绪。",
-        "store": "球衣、帽子、Fantasy draft kit、观赛用品和球队专题页。"
+        "tiktok": "把消息分成已确认、可靠记者、球迷流言三层，再做阵容模拟。",
+        "instagram": "Carousel 做交易评级、薪资空间和球员适配度；Stories 做投票。",
+        "x": "只引用源头记者和官方账号，实时更新签约、筹码和球迷情绪。",
+        "store": "球星球衣、球鞋、收藏卡、球队海报、交易追踪 newsletter。"
       },
-      "score": 8.1
+      "score": 8.3
     },
     {
-      "id": "bengals",
-      "name": "bengals",
+      "id": "big-10-volleyball-tournament",
+      "name": "big 10 volleyball tournament",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 99,
@@ -77,11 +77,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「bengals」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「big 10 volleyball tournament」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "bengals, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "big 10 volleyball tournament, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -107,8 +107,47 @@
       "score": 7.6
     },
     {
-      "id": "rasul-douglas",
-      "name": "rasul douglas",
+      "id": "diana-guti-rrez",
+      "name": "diana gutiérrez",
+      "platforms": "Google Trends, Reddit, X, News",
+      "category": "综合热点 / 社交讨论 / 内容机会",
+      "heat": 98,
+      "viral": 7,
+      "commerce": 6,
+      "longTerm": 6,
+      "source": "https://trends.google.com/trending/rss?geo=US",
+      "opportunity": "「diana gutiérrez」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
+      "age": "18-44 岁为主。",
+      "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
+      "interests": "diana gutiérrez, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
+      "ageBuckets": {
+        "13-17": 8,
+        "18-24": 30,
+        "25-34": 34,
+        "35-44": 18,
+        "45+": 10
+      },
+      "countries": {
+        "美国": 100,
+        "加拿大": 32,
+        "英国": 30,
+        "澳大利亚": 22,
+        "印度": 18,
+        "巴西": 14
+      },
+      "playbook": {
+        "tiktok": "先做 3 秒钩子解释为什么突然火，再给背景、争议点和评论问题。",
+        "instagram": "Carousel 做信息卡、时间线、关键观点和可保存清单。",
+        "x": "跟进源头、事实更新和社区讨论，避免无来源扩散。",
+        "store": "用 newsletter、资料包、垂类清单或工具页承接。"
+      },
+      "score": 7.6
+    },
+    {
+      "id": "hunting-wives-season-2",
+      "name": "hunting wives season 2",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 95,
@@ -116,11 +155,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「rasul douglas」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「hunting wives season 2」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "rasul douglas, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "hunting wives season 2, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -146,8 +185,8 @@
       "score": 7.5
     },
     {
-      "id": "donovan-clingan",
-      "name": "donovan clingan",
+      "id": "canada",
+      "name": "canada",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 92,
@@ -155,11 +194,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「donovan clingan」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「canada」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "donovan clingan, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "canada, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -185,20 +224,20 @@
       "score": 7.4
     },
     {
-      "id": "goldie-hawn",
-      "name": "goldie hawn",
+      "id": "dusty-may",
+      "name": "dusty may",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
-      "heat": 89,
+      "heat": 86,
       "viral": 7,
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「goldie hawn」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「dusty may」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "goldie hawn, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "dusty may, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -221,24 +260,24 @@
         "x": "跟进源头、事实更新和社区讨论，避免无来源扩散。",
         "store": "用 newsletter、资料包、垂类清单或工具页承接。"
       },
-      "score": 7.3
+      "score": 7.2
     },
     {
-      "id": "dexter-lawrence",
-      "name": "dexter lawrence",
-      "platforms": "Google Trends, X, Reddit, News, YouTube",
-      "category": "公共议题 / 新闻解释 / 高风险话题",
-      "heat": 98,
+      "id": "kent-state-vs-eastern-mi",
+      "name": "kent state vs eastern mi",
+      "platforms": "Google Trends, Reddit, X, News",
+      "category": "综合热点 / 社交讨论 / 内容机会",
+      "heat": 83,
       "viral": 7,
-      "commerce": 3,
-      "longTerm": 7,
+      "commerce": 6,
+      "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「dexter lawrence」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
-      "persona": "新闻关注者、公共议题讨论用户、专业解释内容受众。",
-      "age": "25-54 岁为主。",
-      "countriesText": "美国、加拿大、英国、澳大利亚。",
-      "interests": "dexter lawrence, 公共议题 / 新闻解释 / 高风险话题, social trend, viral discussion",
-      "spending": "低；更适合信息服务、newsletter、资料库和事实核查，不建议硬带货。",
+      "opportunity": "「kent state vs eastern mi」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
+      "age": "18-44 岁为主。",
+      "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
+      "interests": "kent state vs eastern mi, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
         "18-24": 30,
@@ -248,21 +287,23 @@
       },
       "countries": {
         "美国": 100,
-        "加拿大": 24,
-        "英国": 20,
-        "澳大利亚": 14
+        "加拿大": 32,
+        "英国": 30,
+        "澳大利亚": 22,
+        "印度": 18,
+        "巴西": 14
       },
       "playbook": {
-        "tiktok": "只做中性解释：发生了什么、哪些说法未证实、下一步看什么。",
-        "instagram": "Carousel 做术语解释、时间线和关键问题。",
-        "x": "严格引用源头，标注未证实内容，不扩散截图流言。",
-        "store": "FAQ、资料库、newsletter；不建议直接带货。"
+        "tiktok": "先做 3 秒钩子解释为什么突然火，再给背景、争议点和评论问题。",
+        "instagram": "Carousel 做信息卡、时间线、关键观点和可保存清单。",
+        "x": "跟进源头、事实更新和社区讨论，避免无来源扩散。",
+        "store": "用 newsletter、资料包、垂类清单或工具页承接。"
       },
       "score": 7.1
     },
     {
-      "id": "weather-washington-dc",
-      "name": "weather washington dc",
+      "id": "pistons-vs-magic",
+      "name": "pistons vs magic",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 80,
@@ -270,11 +311,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「weather washington dc」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「pistons vs magic」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "weather washington dc, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "pistons vs magic, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -300,8 +341,44 @@
       "score": 7
     },
     {
-      "id": "nate-bargatze",
-      "name": "nate bargatze",
+      "id": "miami-oh-vs-wmu",
+      "name": "miami oh vs wmu",
+      "platforms": "Google Trends, X, Local News, Reddit",
+      "category": "本地新闻 / 城市话题 / 社区关注",
+      "heat": 89,
+      "viral": 6,
+      "commerce": 5,
+      "longTerm": 6,
+      "source": "https://trends.google.com/trending/rss?geo=US",
+      "opportunity": "「miami oh vs wmu」是本地地名或社区事件搜索上升，必须先核验事件源，再做地点、影响、时间线和资源清单；适合本地资讯号，不适合硬带货。",
+      "persona": "本地居民、家庭用户、社区新闻关注者、城市生活内容受众。",
+      "age": "25-54 岁为主。",
+      "countriesText": "美国为核心，按城市/州扩散。",
+      "interests": "miami oh vs wmu, 本地新闻 / 城市话题 / 社区关注, social trend, viral discussion",
+      "spending": "中低；适合本地清单、地图、服务信息和 newsletter，不适合硬带货。",
+      "ageBuckets": {
+        "13-17": 8,
+        "18-24": 30,
+        "25-34": 34,
+        "35-44": 18,
+        "45+": 10
+      },
+      "countries": {
+        "美国": 100,
+        "加拿大": 8,
+        "英国": 5
+      },
+      "playbook": {
+        "tiktok": "先讲清地点、事件、影响人群和下一步看什么，避免无来源猜测。",
+        "instagram": "Carousel 做时间线、地图、本地资源和 FAQ。",
+        "x": "只转官方/本地媒体源，标注未确认信息。",
+        "store": "本地资源页、地图、服务清单、社区 newsletter。"
+      },
+      "score": 6.8
+    },
+    {
+      "id": "depaul-vs-purdue",
+      "name": "depaul vs purdue",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 77,
@@ -309,11 +386,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「nate bargatze」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「depaul vs purdue」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "nate bargatze, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "depaul vs purdue, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -337,82 +414,6 @@
         "store": "用 newsletter、资料包、垂类清单或工具页承接。"
       },
       "score": 6.8
-    },
-    {
-      "id": "jalen-slawson",
-      "name": "jalen slawson",
-      "platforms": "Google Trends, X, Reddit, News, YouTube",
-      "category": "公共议题 / 新闻解释 / 高风险话题",
-      "heat": 86,
-      "viral": 7,
-      "commerce": 3,
-      "longTerm": 7,
-      "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「jalen slawson」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
-      "persona": "新闻关注者、公共议题讨论用户、专业解释内容受众。",
-      "age": "25-54 岁为主。",
-      "countriesText": "美国、加拿大、英国、澳大利亚。",
-      "interests": "jalen slawson, 公共议题 / 新闻解释 / 高风险话题, social trend, viral discussion",
-      "spending": "低；更适合信息服务、newsletter、资料库和事实核查，不建议硬带货。",
-      "ageBuckets": {
-        "13-17": 8,
-        "18-24": 30,
-        "25-34": 34,
-        "35-44": 18,
-        "45+": 10
-      },
-      "countries": {
-        "美国": 100,
-        "加拿大": 24,
-        "英国": 20,
-        "澳大利亚": 14
-      },
-      "playbook": {
-        "tiktok": "只做中性解释：发生了什么、哪些说法未证实、下一步看什么。",
-        "instagram": "Carousel 做术语解释、时间线和关键问题。",
-        "x": "严格引用源头，标注未证实内容，不扩散截图流言。",
-        "store": "FAQ、资料库、newsletter；不建议直接带货。"
-      },
-      "score": 6.7
-    },
-    {
-      "id": "washington-redskins",
-      "name": "washington redskins",
-      "platforms": "Google Trends, Reddit, X, News",
-      "category": "综合热点 / 社交讨论 / 内容机会",
-      "heat": 74,
-      "viral": 7,
-      "commerce": 6,
-      "longTerm": 6,
-      "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「washington redskins」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
-      "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
-      "age": "18-44 岁为主。",
-      "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "washington redskins, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
-      "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
-      "ageBuckets": {
-        "13-17": 8,
-        "18-24": 30,
-        "25-34": 34,
-        "35-44": 18,
-        "45+": 10
-      },
-      "countries": {
-        "美国": 100,
-        "加拿大": 32,
-        "英国": 30,
-        "澳大利亚": 22,
-        "印度": 18,
-        "巴西": 14
-      },
-      "playbook": {
-        "tiktok": "先做 3 秒钩子解释为什么突然火，再给背景、争议点和评论问题。",
-        "instagram": "Carousel 做信息卡、时间线、关键观点和可保存清单。",
-        "x": "跟进源头、事实更新和社区讨论，避免无来源扩散。",
-        "store": "用 newsletter、资料包、垂类清单或工具页承接。"
-      },
-      "score": 6.7
     }
   ]
 }
