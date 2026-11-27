@@ -1,5 +1,5 @@
 {
-  "reportDate": "2026-11-26",
+  "reportDate": "2026-11-27",
   "status": "云端自动更新完成。采集 10 条公开源候选，生成 Top10。",
   "sources": [
     [
@@ -29,8 +29,8 @@
   ],
   "trends": [
     {
-      "id": "timothee-chalamet",
-      "name": "timothee chalamet",
+      "id": "pj-gallagher",
+      "name": "pj gallagher",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 99,
@@ -38,11 +38,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「timothee chalamet」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「pj gallagher」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "timothee chalamet, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "pj gallagher, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -68,8 +68,8 @@
       "score": 7.6
     },
     {
-      "id": "zendaya",
-      "name": "zendaya",
+      "id": "brock-purdy-injury",
+      "name": "brock purdy injury",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 98,
@@ -77,11 +77,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「zendaya」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「brock purdy injury」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "zendaya, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "brock purdy injury, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -107,8 +107,8 @@
       "score": 7.6
     },
     {
-      "id": "weather-tornado-warning",
-      "name": "weather tornado warning",
+      "id": "levante-ud-vs-racing-santander-standings",
+      "name": "levante ud vs racing santander standings",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 95,
@@ -116,11 +116,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「weather tornado warning」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「levante ud vs racing santander standings」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "weather tornado warning, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "levante ud vs racing santander standings, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -146,8 +146,8 @@
       "score": 7.5
     },
     {
-      "id": "marshawn-lynch",
-      "name": "marshawn lynch",
+      "id": "ben-roethlisberger",
+      "name": "ben roethlisberger",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 92,
@@ -155,11 +155,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「marshawn lynch」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「ben roethlisberger」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "marshawn lynch, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "ben roethlisberger, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -185,8 +185,8 @@
       "score": 7.4
     },
     {
-      "id": "jada-pinkett-smith",
-      "name": "jada pinkett smith",
+      "id": "stephen-nedoroscik",
+      "name": "stephen nedoroscik",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 89,
@@ -194,11 +194,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「jada pinkett smith」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「stephen nedoroscik」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "jada pinkett smith, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "stephen nedoroscik, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -224,8 +224,8 @@
       "score": 7.3
     },
     {
-      "id": "pamela-anderson",
-      "name": "pamela anderson",
+      "id": "villanova-vs-kansas",
+      "name": "villanova vs kansas",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 86,
@@ -233,11 +233,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「pamela anderson」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「villanova vs kansas」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "pamela anderson, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "villanova vs kansas, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -263,8 +263,8 @@
       "score": 7.2
     },
     {
-      "id": "super-bowl-winners",
-      "name": "super bowl winners",
+      "id": "roman-wilson",
+      "name": "roman wilson",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 83,
@@ -272,11 +272,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「super bowl winners」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「roman wilson」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "super bowl winners, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "roman wilson, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -302,8 +302,8 @@
       "score": 7.1
     },
     {
-      "id": "kavontae-turpin",
-      "name": "kavontae turpin",
+      "id": "fluminense-vs-cruzeiro",
+      "name": "fluminense vs cruzeiro",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 80,
@@ -311,11 +311,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「kavontae turpin」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「fluminense vs cruzeiro」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "kavontae turpin, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "fluminense vs cruzeiro, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -341,8 +341,8 @@
       "score": 7
     },
     {
-      "id": "zach-ertz",
-      "name": "zach ertz",
+      "id": "dj-uiagalelei",
+      "name": "dj uiagalelei",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 77,
@@ -350,11 +350,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「zach ertz」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「dj uiagalelei」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "zach ertz, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "dj uiagalelei, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
@@ -380,8 +380,8 @@
       "score": 6.8
     },
     {
-      "id": "will-shipley",
-      "name": "will shipley",
+      "id": "kentucky-vs-maine",
+      "name": "kentucky vs maine",
       "platforms": "Google Trends, Reddit, X, News",
       "category": "综合热点 / 社交讨论 / 内容机会",
       "heat": 74,
@@ -389,11 +389,11 @@
       "commerce": 6,
       "longTerm": 6,
       "source": "https://trends.google.com/trending/rss?geo=US",
-      "opportunity": "「will shipley」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
+      "opportunity": "「kentucky vs maine」是公开趋势里的上升搜索词，当前需要先回答用户最关心的三个问题：它是什么、为什么今天突然火、普通用户下一步要看什么；内容上先做背景解释和来源核验，再拆成短视频、图卡和专题页。",
       "persona": "热点关注用户、短视频浏览用户、资讯消费人群和可被垂类内容聚合的人群。",
       "age": "18-44 岁为主。",
       "countriesText": "美国、加拿大、英国、澳大利亚及英语内容市场。",
-      "interests": "will shipley, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
+      "interests": "kentucky vs maine, 综合热点 / 社交讨论 / 内容机会, social trend, viral discussion",
       "spending": "中；需要先拆到具体垂类，再承接到清单、工具、周边或订阅。",
       "ageBuckets": {
         "13-17": 8,
